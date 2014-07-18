@@ -1,0 +1,246 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/Scroll_view_profile"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingTop="@dimen/title_padding"
+    android:scrollbars="none" >
+    
+    <RelativeLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+ >
+
+    <ImageView 
+	        android:id="@+id/profile_picture_frame"
+	        android:layout_width="100dp"
+	        android:layout_height="100dp"   
+	        android:src="@drawable/profile_photo"
+	        android:contentDescription="@string/profile_picture_frame"
+	        android:layout_marginLeft = "@dimen/mini_padding"
+	 	/>
+    <ImageView 
+	        android:id="@+id/profile_picture"
+	        android:layout_width="90dp"
+	        android:layout_height="90dp"   
+	        android:src="@drawable/profile_default"
+	        android:contentDescription="@string/profile_picture"
+	        android:layout_marginLeft = "11dp"
+	        android:layout_marginTop = "6dp"
+	 	/>
+    <TextView 
+			android:id="@+id/profile_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/big_title"
+            android:textStyle="bold"
+	        android:paddingTop = "@dimen/small_padding"
+	        android:paddingLeft = "@dimen/cell_padding"
+            android:layout_toRightOf = "@+id/profile_picture_frame"
+            android:text=""
+		 />
+     <TextView 
+			android:id="@+id/profile_age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/medium_title"
+            android:paddingTop="@dimen/mini_padding"
+            android:paddingLeft = "@dimen/cell_padding"
+	        android:layout_below = "@+id/profile_name"
+            android:layout_toRightOf = "@+id/profile_picture_frame"
+            android:text=""
+		 />
+     <TextView 
+			android:id="@+id/profile_height"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/medium_title"
+            android:paddingLeft = "@dimen/cell_padding"
+            android:paddingTop="@dimen/mini_padding"
+	        android:layout_below = "@+id/profile_name"
+            android:layout_toRightOf = "@+id/profile_age"
+            android:text=""
+		 />
+     
+    <ImageView 
+	        android:id="@+id/body_pics"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/btn_pics"
+	        android:contentDescription="@string/profile_picture"
+            android:layout_marginLeft = "@dimen/cell_padding"
+            android:layout_marginTop="@dimen/small_padding"
+            android:layout_below = "@+id/profile_age"
+            android:layout_toRightOf = "@+id/profile_picture_frame"
+	 	/>
+     <LinearLayout 
+         android:id="@+id/profile_stats_layout"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal"
+         android:layout_below="@+id/profile_picture_frame"      
+         android:paddingTop="@dimen/cell_padding"   >
+         
+	        <TextView 
+				android:id="@+id/profile_label_workouts"
+	            android:layout_width="0px"
+	            android:layout_weight="0.2"
+	            android:layout_height="wrap_content"
+	            android:textSize="@dimen/medium_small_title"
+	            android:paddingLeft = "@dimen/mini_padding"
+	            android:text="@string/profile_label_workouts"
+			 />
+	        <TextView 
+				android:id="@+id/profile_no_workouts"
+	            android:layout_width="0px"
+	            android:layout_weight="0.1"
+	            android:layout_height="wrap_content"
+	            android:text="0"
+	            android:textSize="@dimen/big_title"
+	            android:textStyle="bold"
+	            android:paddingLeft = "2dp"
+			 />
+	       <View style="@style/vertical_divider"
+	          android:id="@+id/about_v_divider_1"
+	          android:paddingLeft = "2dp"
+	    	/> 
+	    	
+	        <TextView 
+				android:id="@+id/profile_label_workouts_missed"
+	            android:layout_width="0px"
+	            android:layout_weight="0.2"
+	            android:layout_height="wrap_content"
+	            android:textSize="@dimen/medium_small_title"
+	            android:paddingLeft = "2dp"
+	            android:text="@string/profile_label_workouts_missed"
+			 />
+	    	<TextView 
+				android:id="@+id/profile_no_workouts_missed"
+	            android:layout_width="0px"
+	            android:layout_weight="0.1"
+	            android:layout_height="wrap_content"
+	            android:textSize="@dimen/big_title"
+	            android:textStyle="bold"
+	            android:paddingLeft = "2dp"
+	            android:text="0"
+			 />
+	       <View style="@style/vertical_divider"
+	          android:id="@+id/about_v_divider_2"
+	          android:paddingLeft = "2dp"
+	    	/> 
+	    	
+	        <TextView 
+				android:id="@+id/profile_label_days_left"
+	            android:layout_width="0px"
+	            android:layout_weight="0.2"
+	            android:layout_height="wrap_content"
+	            android:textSize="@dimen/medium_small_title"
+	            android:paddingLeft = "2dp"
+	            android:text="@string/profile_label_days_left"
+			 />
+	    	<TextView 
+				android:id="@+id/profile_no_days_left"
+	            android:layout_width="0px"
+	            android:layout_weight="0.1"
+	            android:layout_height="wrap_content"
+	            android:textSize="@dimen/big_title"
+	            android:textStyle="bold"
+	            android:paddingLeft = "2dp"
+	            android:text="0"
+			 />
+     </LinearLayout>
+     <ImageView 
+	        android:id="@+id/profile_shadow_stats"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/profile_shadow"
+	        android:contentDescription="@string/profile_shadow"
+	        android:paddingTop="@dimen/mini_padding"
+	        android:layout_below="@+id/profile_stats_layout"
+	        android:layout_alignParentLeft="true"
+	 	/>
+     
+     	<!-- ADVANCED PROFILE CARD -->
+	 <LinearLayout
+		android:id="@+id/profile_advanced_profile"    
+	    android:layout_width="fill_parent"
+	    android:layout_height="43dp"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="@dimen/title_padding"
+	    android:padding="@dimen/small_padding"
+	    android:background="@drawable/green_background"
+	    android:clickable="true"
+	    android:layout_below="@+id/profile_shadow_stats"
+	>
+
+	    <ImageView 
+	        android:id="@+id/advanced_profile_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/guidelines_icon"
+	        android:contentDescription="@string/advanced_profile"
+	 	/>
+
+	    <TextView
+	        android:id="@+id/advanced_profile_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/advanced_profile" 
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:textStyle="bold"
+	        android:textSize="@dimen/medium_title"
+	        android:paddingTop="@dimen/mini_padding"
+	        />
+    </LinearLayout>
+    
+	 	<!-- LOG YOUR WEIGHT CARD -->
+	 <LinearLayout
+		android:id="@+id/profile_log_weight_layout"    
+	    android:layout_width="fill_parent"
+	    android:layout_height="43dp"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="@dimen/title_padding"
+	    android:padding="@dimen/small_padding"
+	    android:background="@drawable/green_background"
+	    android:clickable="true"
+	    android:layout_below="@+id/profile_advanced_profile"
+	>
+
+	    <ImageView 
+	        android:id="@+id/log_weight_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/log_icon"
+	        android:contentDescription="@string/trainer_weight_image"
+	 	/>
+
+	    <TextView
+	        android:id="@+id/weight_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/trainer_weight_image" 
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:textStyle="bold"
+	        android:textSize="@dimen/medium_title"
+	        android:paddingTop="@dimen/mini_padding"
+	        />
+    </LinearLayout>
+     
+    <!-- END OF LOG YOUR WEIGHT CARD -->
+    
+     <LinearLayout 
+         	android:id="@+id/chart" 
+         	android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/welcome_bg"
+            android:layout_below="@+id/profile_log_weight_layout"
+            android:layout_alignParentLeft="true"
+	        android:paddingTop="@dimen/cell_padding"
+	        android:paddingLeft="@dimen/mini_padding"
+	        android:paddingRight="@dimen/mini_padding"
+	        android:layout_marginTop="@dimen/cell_padding"
+      />
+
+</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dos_title">Do\'s</string>
+    <string name="donts_title">Don\'ts</string>
+    
+    <!-- PREGNANCY -->
+    <string name="pregnancy_title">Pregnancy</string>
+    <string name="pregnancy_dos"><ol><li>Eat plenty of calcium (milk, cheese, yoghurt) \n\n</li>
+	    		<li>Include protein (lean meat, chicken and fish, eggs and pulses) in your diet \n\n</li>
+	    		<li>Eat iron rich foods(fortified cereals, red meat, pulses, bread, green veg). \n\n</li>
+	    		</ol>
+	 </string>
+	 <string name="pregnancy_donts"><ol><li>Avoid caffeine intake \n\n</li>
+	    		<li>Do not consume liver or liver products. \n\n</li>
+	    		<li>Avoid raw shellfish. \n\n</li>
+	    		</ol>
+	 </string>
+	 
+	  <!-- THYROID -->
+	  <string name="thyroid_title">Thyroid (HyproThyroid)</string>
+    <string name="thyroid_dos"><ol><li>Eat Foods high in Vitamin B and Iron such as fresh vegetables and whole grains. \n\n</li>
+	    		<li>Eat more of Almonds, Sesame Seeds, and Oats. \n\n</li>
+	    		<li>Eat foods high in antioxidants, including fruits such as blueberries, cherries, and tomatoes  \n\n</li>
+	    		<li>Include omega 3 sources like fish, walnuts, etc \n\n</li>
+	    		</ol>
+	 </string>
+	 <string name="thyroid_donts"><ol><li>Avoid High levels of Caffeine. \n\n</li>
+	    		<li>Avoid goitrogens like broccoli, cabbage, brussels sprouts, cauliflower, kale, spinach, turnips, soybeans, peanuts, linseed, pine nuts, millets. \n\n</li>
+	    		</ol>
+	 </string>
+	 
+	<!-- PCOS -->
+	<string name="pcos_title">PCOS</string>
+    <string name="pcos_dos"><ol><li>Increase the intake of Fiber in your diet. \n\n</li>
+	    		<li>Include omega 3 rich food like fish, walnuts in your diet \n\n</li>
+	    		</ol>
+	 </string>
+	 <string name="pcos_donts"><ol><li>Don\'t Smoke \n\n</li>
+	    		<li>Don\'t Eat High-Sugar Foods \n\n</li>
+	    		</ol>
+	 </string>
+	 
+	 
+	 <!-- DIABETES -->
+	 <string name="diabetes_title">Diabetes</string>
+    <string name="diabetes_dos">Include the following in your diet regularly\n\n
+        		<ol><li>Fenugreek (methi)- 1-2tspn/day \n\n</li>
+	    		<li>Indian blackberry (jamun)- 8-10/day \n\n</li>
+	    		<li>Garlic- 2-3 cloves/day \n\n</li>
+	    		<li>Flaxseed- 1-2tspn/day \n\n</li>
+	    		<li>Fibre- 25-30gms/day \n\n</li>
+	    		</ol>
+	 </string>
+	 <string name="diabetes_donts">Use the following foods in moderation \n\n
+	     		<ol><li>Salt \n\n</li>
+	    		<li>Sugar \n\n</li>
+	    		<li>Fat \n\n</li>
+	    		<li>Whole milk and products \n\n</li>
+	    		<li>Tea and coffee \n\n</li>
+	    		<li>White flour and its products \n\n</li>
+	    		<li>Foods with a high glycemic index. \n\n</li>
+	    		</ol>
+	 </string>
+	 
+	 <!-- CHOLESTEROL -->
+	 <string name="cholesterol_title">Cholesterol</string>
+    <string name="cholesterol_dos"><ol><li>Consume vegetables, soy products, protein rich foods, and a high fiber diet.  \n\n</li>
+	    		<li>Include lot of walnuts, flaxseeds, fish, oats, whole wheat bran and whole grain in your diet.  \n\n</li>
+	    		<li>Drink at least 8-10 glasses of water each day. \n\n</li>
+	    		</ol>
+	 </string>
+	 <string name="cholesterol_donts"><ol><li>Avoid red meats, organ meats and all those junk foods that contain a high amount of toxic trans-fats and saturated fats.  \n\n</li>
+	    		<li>Avoid refined and processed foods.  \n\n</li>
+	    		<li>Avoid high fat dairy products, instead use low fat variety. \n\n</li>
+	    		<li>Use salt in moderation.  \n\n</li>
+	    		</ol>
+	 </string>
+	 
+	 <!-- HYPERTENSION -->
+	 <string name="bp_hypertension_title">Blood Pressure - Hypertension</string>
+	 <string name="blood_pressure_title">Blood Pressure</string>
+    <string name="bp_hypertension_dos"><ol><li>Have lot of vegetables and fruits.  \n\n</li>
+	    		<li>Use low fat dairy products  \n\n</li>
+	    		<li>Consume whole grains and lean meat, fish and poultry. \n\n</li>
+	    		<li>Limit fast foods, canned foods or foods that are bought prepared. \n\n</li>
+	    		</ol>
+	 </string>
+	 <string name="bp_hypertension_donts"><ol><li>Avoid Saturated fats and Trans Fats. \n\n</li>
+	    		<li>Restrict the intake of table salt \n\n</li>
+	    		<li>Avoid Alcohol and Smoking \n\n</li>
+	    		</ol>
+	 </string>
+	 
+	<!-- HYPOTENSION -->
+	<string name="bp_hypotension_title">Blood Pressure - Hypotension</string>
+    <string name="bp_hypotension_dos"><ol><li>Include more salt in your diet   \n\n</li>
+	    		<li>Eating smaller meals, more often.  \n\n</li>
+	    		</ol>
+	 </string>
+	 <string name="bp_hypotension_donts"><ol><li>Avoid caffeine at night. \n\n</li>
+	    		<li>Limit alcohol intake. \n\n</li>
+	    		</ol>
+	 </string>
+</resources>

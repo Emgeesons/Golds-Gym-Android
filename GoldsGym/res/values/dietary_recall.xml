@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="breakfast_array">
+        <item>Select item</item>
+        <item>Biscuits – Cream</item>
+		<item>Biscuits – Khari</item>
+		<item>Biscuits – Salty</item>
+		<item>Biscuits – Sweet</item>
+		<item>Boiled Egg - W/o Yolk</item>
+		<item>Boiled Egg - With Yolk</item>
+		<item>Chiwda</item>
+		<item>Corn Flakes</item>
+		<item>Daliya Porridge</item>
+		<item>Daliya Upma (Plain)</item>
+		<item>Dosa</item>
+		<item>Idli</item>
+		<item>Kurkure (Tomato)</item>
+		<item>Muesli (Dried Nuts)</item>
+		<item>Nankhatai/Shrewsberry</item>
+		<item>Nuts</item>
+		<item>Oat Flakes</item>
+		<item>Omelette (Plain)</item>
+		<item>Puffed Rice</item>
+		<item>Sandwich-Whole Wheat </item>
+		<item>Scrambled Egg</item>
+		<item>Sev, Ghatiya</item>
+		<item>Smoothies - Plain</item>
+		<item>Smoothies – Fruit</item>
+		<item>Upma</item>
+		<item>Vermicelli Upma</item>
+		<item>Wafers (Potato)</item>
+		<item>Wheat Flakes</item>
+		<item>White Bread</item>
+        <item>Cereals – Wheat Flour ,Whole</item>
+		<item>Carrot Halwa</item>
+		<item>Cereals – Bajra</item>
+		<item>Cereals – Rice,Raw,Milled</item>
+		<item>Cheese</item>
+		<item>Chicken</item>
+		<item>Chikki</item>
+		<item>Coconut (Dry)</item>
+		<item>Coconut (Fresh)</item>
+		<item>Egg (Whole)</item>
+		<item>Eggwhites</item>
+		<item>Fish</item>
+		<item>Fruit Custard</item>
+		<item>Fruits</item>
+		<item>Kheer</item>
+		<item>Lassi</item>
+		<item>Milk (Buffalo)</item>
+		<item>Milk (Cow)</item>
+		<item>Mutton</item>
+		<item>Nuts</item>
+		<item>Oil /Ghee</item>
+		<item>Paneer</item>
+		<item>Pudding</item>
+		<item>Pulses – Bengal Gram</item>
+		<item>Pulses - Dhal(Chana Dal)</item>
+		<item>Pulses – Green Gram</item>
+		<item>Pulses - Whole Moong</item>
+		<item>Pulses – Lentils(Masoor)</item>
+		<item>Pulses – Red Gram (Tur Dal)</item>
+		<item>Pulses – Soyabean</item>
+		<item>Roots And Tubers</item>
+		<item>Sago</item>
+		<item>Sheera</item>
+		<item>Soft Drinks</item>
+		<item>Sugar</item>
+		<item></item>
+    </string-array>
+    <string-array name="snacks_array">
+        <item>Select item</item>
+        <item>Bhajya/Pakoda</item>
+		<item>Batata Wada</item>
+		<item>Chat Items</item>
+		<item>Dabeli</item>
+		<item>Franky</item>
+		<item>Popcorn</item>
+		<item>Samosa</item>
+        <item>Cereals – Wheat Flour ,Whole</item>
+		<item>Carrot Halwa</item>
+		<item>Cereals – Bajra</item>
+		<item>Cereals – Rice,Raw,Milled</item>
+		<item>Cheese</item>
+		<item>Chicken</item>
+		<item>Chikki</item>
+		<item>Coconut (Dry)</item>
+		<item>Coconut (Fresh)</item>
+		<item>Egg (Whole)</item>
+		<item>Eggwhites</item>
+		<item>Fish</item>
+		<item>Fruit Custard</item>
+		<item>Fruits</item>
+		<item>Kheer</item>
+		<item>Lassi</item>
+		<item>Milk (Buffalo)</item>
+		<item>Milk (Cow)</item>
+		<item>Mutton</item>
+		<item>Nuts</item>
+		<item>Oil /Ghee</item>
+		<item>Paneer</item>
+		<item>Pudding</item>
+		<item>Pulses – Bengal Gram</item>
+		<item>Pulses - Dhal(Chana Dal)</item>
+		<item>Pulses – Green Gram</item>
+		<item>Pulses - Whole Moong</item>
+		<item>Pulses – Lentils(Masoor)</item>
+		<item>Pulses – Red Gram (Tur Dal)</item>
+		<item>Pulses – Soyabean</item>
+		<item>Roots And Tubers</item>
+		<item>Sago</item>
+		<item>Sheera</item>
+		<item>Soft Drinks</item>
+		<item>Sugar</item>
+        <item></item>
+    </string-array>
+    <string-array name="bedtime_array">
+        <item>Select item</item>
+        <item>Double Tonned Milk</item>
+		<item>Flavoured Milk</item>
+		<item>Full Cream Milk</item>
+		<item>Milk</item>
+		<item>Skimmed Milk</item>
+		<item>Tonned Milk</item>
+        <item>Cereals – Wheat Flour ,Whole</item>
+		<item>Carrot Halwa</item>
+		<item>Cereals – Bajra</item>
+		<item>Cereals – Rice,Raw,Milled</item>
+		<item>Cheese</item>
+		<item>Chicken</item>
+		<item>Chikki</item>
+		<item>Coconut (Dry)</item>
+		<item>Coconut (Fresh)</item>
+		<item>Egg (Whole)</item>
+		<item>Eggwhites</item>
+		<item>Fish</item>
+		<item>Fruit Custard</item>
+		<item>Fruits</item>
+		<item>Kheer</item>
+		<item>Lassi</item>
+		<item>Milk (Buffalo)</item>
+		<item>Milk (Cow)</item>
+		<item>Mutton</item>
+		<item>Nuts</item>
+		<item>Oil /Ghee</item>
+		<item>Paneer</item>
+		<item>Pudding</item>
+		<item>Pulses – Bengal Gram</item>
+		<item>Pulses - Dhal(Chana Dal)</item>
+		<item>Pulses – Green Gram</item>
+		<item>Pulses - Whole Moong</item>
+		<item>Pulses – Lentils(Masoor)</item>
+		<item>Pulses – Red Gram (Tur Dal)</item>
+		<item>Pulses – Soyabean</item>
+		<item>Roots And Tubers</item>
+		<item>Sago</item>
+		<item>Sheera</item>
+		<item>Soft Drinks</item>
+		<item>Sugar</item>
+        <item></item>
+    </string-array>
+    <string-array name="main_course_array">
+        <item>Select item</item>
+   		<item>Aloo Parathas</item>
+		<item>Bhakari</item>
+		<item>Biryani </item>
+		<item>Buttermilk</item>
+		<item>Chapati</item>
+		<item>Cheese Parathas</item>
+		<item>Chicken – Coconut Gravy</item>
+		<item>Chicken – Curry</item>
+		<item>Chicken – Fried</item>
+		<item>Chicken – Roasted</item>
+		<item>Chicken Fried Rice</item>
+		<item>Chicken Vegetable Biryani</item>
+		<item>Curd Rice</item>
+		<item>Dal Dhokali</item>
+		<item>Dal/ Sambar</item>
+		<item>Daliya Khichadi</item>
+		<item>Egg Bhurji</item>
+		<item>Egg Curry</item>
+		<item>Egg Fried Rice</item>
+		<item>Egg Pulao</item>
+		<item>Fish – Coconut Gravy</item>
+		<item>Fish – Curry</item>
+		<item>Fish – Fried</item>
+		<item>Fish – Roasted</item>
+		<item>Fruit Raita</item>
+		<item>Kadhi</item>
+		<item>Khichadi</item>
+		<item>Leafy Vegetable</item>
+		<item>Masala Rice</item>
+		<item>Moong Dal Chilla</item>
+		<item>Mutton Vegetable Biryani</item>
+		<item>Paneer Bhurji</item>
+		<item>Paneer Parathas</item>
+		<item>Paneer Pulao</item>
+		<item>Phodni Bhaat</item>
+		<item>Phulka</item>
+		<item>Plain Paratha</item>
+		<item>Plain Rice</item>
+		<item>Prawns Pulao</item>
+		<item>Pulao</item>
+		<item>Pulses</item>
+		<item>Red Pumpkin Puri</item>
+		<item>Sambhar</item>
+		<item>Sprouts Raita</item>
+		<item>Thalipeeth</item>
+		<item>Thepla</item>
+		<item>Usal/ Chudani</item>
+		<item>Vegetable Biryani</item>
+		<item>Vegetable Fried Rice</item>
+		<item>Vegetable Parathas</item>
+		<item>Vegetable Pulao</item>
+		<item>Vegetable Raita</item>
+		<item>Vegetable</item>
+        <item>Cereals – Wheat Flour ,Whole</item>
+		<item>Carrot Halwa</item>
+		<item>Cereals – Bajra</item>
+		<item>Cereals – Rice,Raw,Milled</item>
+		<item>Cheese</item>
+		<item>Chicken</item>
+		<item>Chikki</item>
+		<item>Coconut (Dry)</item>
+		<item>Coconut (Fresh)</item>
+		<item>Egg (Whole)</item>
+		<item>Eggwhites</item>
+		<item>Fish</item>
+		<item>Fruit Custard</item>
+		<item>Fruits</item>
+		<item>Kheer</item>
+		<item>Lassi</item>
+		<item>Milk (Buffalo)</item>
+		<item>Milk (Cow)</item>
+		<item>Mutton</item>
+		<item>Nuts</item>
+		<item>Oil /Ghee</item>
+		<item>Paneer</item>
+		<item>Pudding</item>
+		<item>Pulses – Bengal Gram</item>
+		<item>Pulses - Dhal(Chana Dal)</item>
+		<item>Pulses – Green Gram</item>
+		<item>Pulses - Whole Moong</item>
+		<item>Pulses – Lentils(Masoor)</item>
+		<item>Pulses – Red Gram (Tur Dal)</item>
+		<item>Pulses – Soyabean</item>
+		<item>Roots And Tubers</item>
+		<item>Sago</item>
+		<item>Sheera</item>
+		<item>Soft Drinks</item>
+		<item>Sugar</item>
+        <item></item>
+    </string-array>
+     <string-array name="snacks_timings_array">
+       <item >Timing</item>
+        <item>13.30</item>
+        <item>14.00</item>
+        <item>14.30</item>
+        <item>15.00</item>
+        <item>15.30</item>
+        <item>16.00</item>
+        <item>16.30</item>
+        <item>17.00</item>
+        <item>17.30</item>
+        <item>18.00</item>
+        <item>18.30</item>
+        <item>19.00</item>
+        <item>19.30</item>
+        <item>20.00</item>
+        <item>20.30</item>
+        <item>21.00</item>
+        <item>21.30</item>
+        <item>22.00</item>
+        <item>22.30</item>
+     </string-array>	
+    <string-array name="breakfast_timings_array">
+        <item >Timing</item>
+        <item>5.30</item>
+        <item>6.00</item>
+        <item>6.30</item>
+        <item>7.00</item>
+        <item>7.30</item>
+        <item>8.00</item>
+        <item>8.30</item>
+        <item>9.00</item>
+        <item>9.30</item>
+        <item>10.00</item>
+        <item>10.30</item>
+        <item>11.00</item>
+        <item>11.30</item>
+        <item>12.00</item>
+        <item>12.30</item>
+        <item>13.00</item>
+    </string-array>	
+   <string-array name="lunch_timings_array">
+       <item >Timing</item>
+        <item>11.30</item>
+        <item>12.00</item>
+        <item>12.30</item>
+        <item>13.00</item>
+        <item>13.30</item>
+        <item>14.00</item>
+        <item>14.30</item>
+        <item>15.00</item>
+        <item>15.30</item>
+        <item>16.00</item>
+        <item>16.30</item>
+        <item>17.00</item>
+    </string-array>	
+    <string-array name="dinner_timings_array">
+        <item >Timing</item>
+        <item>17.30</item>
+        <item>18.00</item>
+        <item>18.30</item>
+        <item>19.00</item>
+        <item>19.30</item>
+        <item>20.00</item>
+        <item>20.30</item>
+        <item>21.00</item>
+        <item>21.30</item>
+        <item>22.00</item>
+        <item>22.30</item>
+        <item>23.00</item>
+        <item>23.30</item>
+        <item>24.00</item>
+        <item>0.30</item>
+        <item>1.00</item>
+        <item>1.30</item>
+        <item>2.00</item>
+    </string-array>
+    <string-array name="bedtime_timings_array">
+        <item >Timing</item>
+        <item>20.00</item>
+        <item>20.30</item>
+        <item>21.00</item>
+        <item>21.30</item>
+        <item>22.00</item>
+        <item>22.30</item>
+        <item>23.00</item>
+        <item>23.30</item>
+        <item>24.00</item>
+        <item>0.30</item>
+        <item>1.00</item>
+        <item>1.30</item>
+        <item>2.00</item>
+    </string-array>		
+    <string-array name="servings_array">
+        <item>Qty</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>0</item>
+    </string-array>	
+</resources>    

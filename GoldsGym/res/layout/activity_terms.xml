@@ -1,0 +1,45 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LaunchAppActivity"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:paddingTop="30dp"
+	        android:paddingLeft="@dimen/mini_padding"
+	        android:paddingRight="@dimen/mini_padding" 
+ >
+        
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="@dimen/small_padding"
+            android:paddingBottom="@dimen/small_padding"
+	        	android:paddingLeft="@dimen/mini_padding"
+	        	android:paddingRight="@dimen/mini_padding"  
+            android:background="@color/light_gray"
+     >
+      <TextView android:id="@+id/terms_title"       
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_gravity="center_horizontal"
+		        android:text="@string/terms_title"
+		        android:textSize="@dimen/big_title_text_size"
+		        android:paddingTop="@dimen/small_padding"
+		        android:paddingBottom="@dimen/small_padding"
+	        	android:paddingLeft="@dimen/mini_padding"
+	        	android:paddingRight="@dimen/mini_padding" 
+		        android:textColor="@color/royal_blue"  
+            />
+     <TextView android:id="@+id/terms_description"       
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="@string/terms_description"
+		        android:textSize="@dimen/regular_text_size"
+		        android:paddingTop="@dimen/small_padding"
+		        android:paddingBottom="@dimen/cell_padding"
+	        	android:paddingLeft="@dimen/mini_padding"
+	        	android:paddingRight="@dimen/mini_padding" 
+		        android:textColor="@color/dark_gray"  
+            />
+     </LinearLayout>
+</ScrollView>

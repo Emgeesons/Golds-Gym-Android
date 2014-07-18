@@ -1,0 +1,652 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbars="none">
+
+<LinearLayout 
+    android:id="@+id/nutritionist_parent_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+>
+
+    <!--  ACHIEVEMENT CARD -->
+     <LinearLayout
+	    android:id="@+id/achievement_layout"
+	    android:layout_width="fill_parent"
+	    android:layout_height="190dp"
+	    android:background="@drawable/welcome_bg"
+	    android:paddingBottom="@dimen/small_padding"
+	    android:orientation="vertical"
+	    android:layout_marginTop="@dimen/title_padding"
+    >
+    	<ImageView 
+    	    android:id="@+id/achievement_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:contentDescription="@string/achievement_image"
+	        android:layout_gravity="center_horizontal"
+    	    />
+    	<TextView 
+    	    android:id="@+id/achievement_title"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:layout_gravity="center_horizontal"
+    	    android:textStyle="bold"
+	        android:textSize="@dimen/medium_title"
+	        android:gravity="center_horizontal"
+	        android:text=""
+    	    />
+    	<TextView 
+    	    android:id="@+id/achievement_sub_title"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:layout_gravity="center_horizontal"
+    	    android:textStyle="italic"
+	        android:textSize="@dimen/medium_small_title"
+	        android:paddingTop="@dimen/mini_padding"
+	        android:paddingBottom="@dimen/mini_padding"
+	        android:gravity="center_horizontal"
+	        android:text=""/>
+    	 <ImageView 
+    	    android:id="@+id/facebook_image"
+    	    android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/share_fb"
+	        android:contentDescription="@string/facebook_image"
+	        android:layout_gravity="center_horizontal"
+    	    />
+   </LinearLayout> 
+    	
+	<!-- END OF ACHIEVEMENT CARD -->
+	
+    <!-- WELCOME / GET STARTED CARD -->
+	<LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:id="@+id/welcome_card_layout"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:paddingTop="@dimen/body_padding"
+	    android:paddingLeft="@dimen/border_padding"
+	    android:paddingBottom="@dimen/body_padding"
+	    android:paddingRight="@dimen/border_padding"
+	    android:layout_marginTop="@dimen/title_padding" 
+	    android:background="@drawable/welcome_bg"
+	>    
+		<ImageView 
+		        android:id="@+id/get_started_image"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"        
+		        android:src="@drawable/welcome_icon"
+		        android:layout_gravity="center_horizontal"
+		        android:contentDescription="@string/get_started_image" />
+		
+		<TextView
+		    	android:id="@+id/get_started_text"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:paddingLeft="@dimen/activity_vertical_margin"
+		        android:paddingTop = "@dimen/cell_padding"
+		        android:paddingBottom = "@dimen/cell_padding"
+		        android:layout_gravity="center_horizontal"
+		        android:gravity="center_horizontal"
+		        android:text="@string/get_started_label" />
+		
+		 
+		 <ImageView 
+			        android:id="@+id/get_started_button"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"   
+		            android:layout_gravity="center_horizontal"
+			        android:paddingTop = "@dimen/cell_padding"
+			        android:paddingBottom = "@dimen/cell_padding"
+			        android:paddingLeft="@dimen/cell_padding"
+			        android:paddingRight="@dimen/cell_padding"     
+			        android:src="@drawable/get_started"
+			        android:contentDescription="@string/get_started_button"
+			        android:clickable="true" />
+    
+		 <ImageView 
+			        android:id="@+id/reset_stats_button"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"   
+		            android:layout_gravity="center_horizontal"
+			        android:paddingBottom = "@dimen/cell_padding"
+			        android:paddingLeft="@dimen/cell_padding"
+			        android:paddingRight="@dimen/cell_padding"     
+			        android:src="@drawable/reset_stats"
+			        android:contentDescription="@string/get_started_button"
+			        android:clickable="true"
+			        android:visibility="gone" />
+	</LinearLayout>
+	<!-- END OF WELCOME / GET STARTED CARD -->
+	
+	<!--  MOTIVATION CARD -->
+    <RelativeLayout
+	    android:id="@+id/motivation_layout"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/yellow_bg"
+	    android:layout_marginTop="@dimen/title_padding" 
+    >
+    	<ImageView 
+    	    android:id="@+id/motivation_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:contentDescription="@string/motivational_image"
+	        android:layout_gravity="center_vertical"
+	        android:layout_alignParentLeft="true"
+    		android:layout_centerInParent="true"
+    	    />
+    	<ImageView 
+    	    android:id="@+id/quotes_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/quotes"
+	        android:contentDescription="@string/motivational_image"
+	        android:layout_toRightOf="@+id/motivation_image"
+	        android:paddingLeft="@dimen/small_padding"
+	        android:paddingTop="@dimen/small_padding"
+    	    />
+    	<TextView 
+    	    android:id="@+id/motivational_title"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:textStyle="bold"
+	        android:textSize="@dimen/medium_title"
+	        android:text=""
+	        android:layout_toRightOf="@+id/motivation_image"
+	        android:layout_below="@+id/quotes_image"
+	        android:paddingLeft="@dimen/small_padding"
+	        android:paddingTop="@dimen/small_padding"
+	        android:paddingBottom="@dimen/small_padding"
+	        android:paddingRight="@dimen/mini_padding"
+    	    />
+   </RelativeLayout>  	
+	<!-- END OF MOTIVATION CARD -->
+	
+	
+	
+	<!-- ADVANCED PROFILE CARD -->
+	<!-- 
+	 <LinearLayout
+		android:id="@+id/trainer_advanced_profile"    
+	    android:layout_width="fill_parent"
+	    android:layout_height="43dp"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="@dimen/title_padding"
+	    android:padding="@dimen/small_padding"
+	    android:background="@drawable/green_background"
+	    android:clickable="true"
+	>
+
+	    <ImageView 
+	        android:id="@+id/advanced_profile_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/guidelines_icon"
+	        android:contentDescription="@string/advanced_profile"
+	 	/>
+
+	    <TextView
+	        android:id="@+id/advanced_profile_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/advanced_profile" 
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:textStyle="bold"
+	        android:textSize="@dimen/medium_title"
+	        android:paddingTop="@dimen/mini_padding"
+	        />
+    </LinearLayout>
+    -->
+	
+	<!-- LOG YOUR WEIGHT CARD -->
+	 <LinearLayout
+		android:id="@+id/trainer_log_weight_layout"    
+	    android:layout_width="fill_parent"
+	    android:layout_height="43dp"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="@dimen/title_padding"
+	    android:padding="@dimen/small_padding"
+	    android:background="@drawable/green_background"
+	    android:clickable="true"
+	>
+
+	    <ImageView 
+	        android:id="@+id/log_weight_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/log_icon"
+	        android:contentDescription="@string/trainer_weight_image"
+	 	/>
+
+	    <TextView
+	        android:id="@+id/weight_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/trainer_weight_image" 
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:textStyle="bold"
+	        android:textSize="@dimen/medium_title"
+	        android:paddingTop="@dimen/mini_padding"
+	        />
+    </LinearLayout>
+     
+    <!-- END OF LOG YOUR WEIGHT CARD -->
+    
+    <!--  LOG YESTERDAYS WORKOUT CARD CARD -->
+	 <LinearLayout
+		android:id="@+id/trainer_log_workout_layout"    
+	    android:layout_width="fill_parent"
+	    android:layout_height="43dp"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="@dimen/title_padding"
+	    android:padding="@dimen/small_padding"
+	    android:background="@color/exercise_bg"
+	    
+	>
+
+	    <ImageView 
+	        android:id="@+id/log_workout_image"
+	        android:layout_width="0px"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="0.1"     
+	        android:src="@drawable/log_icon"
+	        android:contentDescription="@string/trainer_log_workout_image"
+	 	/>
+
+	    <TextView
+	        android:id="@+id/log_workout_title"
+	        android:layout_width="0px"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="0.8"  
+	        android:text="@string/trainer_log_workout_image" 
+	        android:paddingLeft="@dimen/small_padding"
+	        android:textStyle="bold"
+	        android:textSize="@dimen/medium_title"
+	        android:paddingTop="2dp"
+	        android:textColor="@color/red"
+	        />
+	    
+    	   <ImageView 
+		        android:id="@+id/log_yesterday_image"
+		        android:layout_width="0px"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.1"       
+		        android:src="@drawable/grey_tickmark"
+		        android:contentDescription="@string/trainer_log_workout_image"
+	 	   />
+    </LinearLayout>
+    <!-- END OF LOG YESTERDAYS WORKOUT CARD -->
+    
+	<!--  WEEKLY WORKOUT CARD -->
+    <LinearLayout
+	    android:id="@+id/trainer_weekly_workout_layout"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/welcome_bg"
+	    android:padding="@dimen/small_padding"
+	    android:layout_marginTop="@dimen/title_padding"
+	    android:orientation="vertical"
+    >
+    	  <TextView
+	        android:id="@+id/weekly_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/weekly_title" 
+	        android:textStyle="bold"
+	        android:textSize="@dimen/big_title"
+	        android:paddingTop="@dimen/mini_padding"
+	        android:paddingBottom="@dimen/small_padding"
+	        />
+    	  <!-- MONDAY -->
+    	  <LinearLayout android:id="@+id/monday_layout"
+    	      android:layout_width="fill_parent"
+    	      android:layout_height="wrap_content"
+    	      android:orientation="horizontal"
+    	      android:paddingLeft="@dimen/small_padding"
+    	      android:paddingRight="@dimen/mini_padding"
+    	      android:paddingTop="@dimen/mini_padding"
+    	      android:paddingBottom="@dimen/mini_padding"
+    	      android:background="@color/exercise_bg"
+    	  >
+    	  <TextView
+	            android:id="@+id/monday_label"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.15"  
+		        android:text="@string/monday_label"
+		        android:textStyle="bold"
+		        android:textSize="@dimen/medium_title"
+            />
+    	  <TextView
+	            android:id="@+id/monday_exercise"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.75"  
+		        android:text=""
+		        android:textSize="@dimen/medium_small_title"
+		        android:paddingLeft="@dimen/small_padding"
+            />
+    	   <ImageView 
+		        android:id="@+id/monday_image"
+		        android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.1"     
+		        android:src="@drawable/grey_tickmark"
+		        android:contentDescription="@string/exercise_image"
+	 	   />
+    	  </LinearLayout>
+    	  
+    	  <!-- TUESDAY -->
+    	  <LinearLayout android:id="@+id/tuesday_layout"
+    	      android:layout_width="fill_parent"
+    	      android:layout_height="wrap_content"
+    	      android:orientation="horizontal"
+    	      android:paddingLeft="@dimen/small_padding"
+    	      android:paddingRight="@dimen/mini_padding"
+    	      android:paddingTop="@dimen/mini_padding"
+    	      android:paddingBottom="@dimen/mini_padding"
+    	      android:layout_marginTop="@dimen/mini_padding"
+    	      android:background="@color/exercise_bg"
+    	  >
+    	  <TextView
+	            android:id="@+id/tuesday_label"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.15"  
+		        android:text="@string/tuesday_label"
+		        android:textStyle="bold"
+		        android:textSize="@dimen/medium_title"
+            />
+    	  <TextView
+	            android:id="@+id/tuesday_exercise"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.75"  
+		        android:text=""
+		        android:textSize="@dimen/medium_small_title"
+		        android:paddingLeft="@dimen/small_padding"
+            />
+    	   <ImageView 
+		        android:id="@+id/tuesday_image"
+		        android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.1"     
+		        android:src="@drawable/grey_tickmark"
+		        android:contentDescription="@string/exercise_image"
+	 	   />
+    	  </LinearLayout>
+    	
+    	  <!-- WEDNESDAY -->
+    	  <LinearLayout android:id="@+id/wednesday_layout"
+    	      android:layout_width="fill_parent"
+    	      android:layout_height="wrap_content"
+    	      android:orientation="horizontal"
+    	      android:paddingLeft="@dimen/small_padding"
+    	      android:paddingRight="@dimen/mini_padding"
+    	      android:paddingTop="@dimen/mini_padding"
+    	      android:paddingBottom="@dimen/mini_padding"
+    	      android:layout_marginTop="@dimen/mini_padding"
+    	      android:background="@color/exercise_bg"
+    	  >
+    	  <TextView
+	            android:id="@+id/wednesday_label"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.15"  
+		        android:text="@string/wednesday_label"
+		        android:textStyle="bold"
+		        android:textSize="@dimen/medium_title"
+            />
+    	  <TextView
+	            android:id="@+id/wednesday_exercise"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.75"  
+		        android:text=""
+		        android:textSize="@dimen/medium_small_title"
+		        android:paddingLeft="@dimen/small_padding"
+            />
+    	   <ImageView 
+		        android:id="@+id/wednesday_image"
+		        android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.1"     
+		        android:src="@drawable/grey_tickmark"
+		        android:contentDescription="@string/exercise_image"
+	 	   />
+    	  </LinearLayout>
+    	  
+    	  <!-- THURSDAY -->
+    	  <LinearLayout android:id="@+id/thursday_layout"
+    	      android:layout_width="fill_parent"
+    	      android:layout_height="wrap_content"
+    	      android:orientation="horizontal"
+    	      android:paddingLeft="@dimen/small_padding"
+    	      android:paddingRight="@dimen/mini_padding"
+    	      android:paddingTop="@dimen/mini_padding"
+    	      android:paddingBottom="@dimen/mini_padding"
+    	      android:layout_marginTop="@dimen/mini_padding"
+    	      android:background="@color/exercise_bg"
+    	  >
+    	  <TextView
+	            android:id="@+id/thursday_label"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.15"  
+		        android:text="@string/thursday_label"
+		        android:textStyle="bold"
+		        android:textSize="@dimen/medium_title"
+            />
+    	  <TextView
+	            android:id="@+id/thursday_exercise"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.75"  
+		        android:text=""
+		        android:textSize="@dimen/medium_small_title"
+		        android:paddingLeft="@dimen/small_padding"
+            />
+    	   <ImageView 
+		        android:id="@+id/thursday_image"
+		        android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.1"     
+		        android:src="@drawable/grey_tickmark"
+		        android:contentDescription="@string/exercise_image"
+	 	   />
+    	  </LinearLayout>
+    	  
+    	 <!-- FRIDAY -->
+    	  <LinearLayout android:id="@+id/friday_layout"
+    	      android:layout_width="fill_parent"
+    	      android:layout_height="wrap_content"
+    	      android:orientation="horizontal"
+    	      android:paddingLeft="@dimen/small_padding"
+    	      android:paddingRight="@dimen/mini_padding"
+    	      android:paddingTop="@dimen/mini_padding"
+    	      android:paddingBottom="@dimen/mini_padding"
+    	      android:layout_marginTop="@dimen/mini_padding"
+    	      android:background="@color/exercise_bg"
+    	  >
+    	  <TextView
+	            android:id="@+id/friday_label"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.15"  
+		        android:text="@string/friday_label"
+		        android:textStyle="bold"
+		        android:textSize="@dimen/medium_title"
+            />
+    	  <TextView
+	            android:id="@+id/friday_exercise"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.75"  
+		        android:text=""
+		        android:textSize="@dimen/medium_small_title"
+		        android:paddingLeft="@dimen/small_padding"
+            />
+    	   <ImageView 
+		        android:id="@+id/friday_image"
+		        android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.1"     
+		        android:src="@drawable/grey_tickmark"
+		        android:contentDescription="@string/exercise_image"
+	 	   />
+    	  </LinearLayout>
+    	  
+    	 <!-- SATURDAY -->
+    	  <LinearLayout android:id="@+id/saturday_layout"
+    	      android:layout_width="fill_parent"
+    	      android:layout_height="wrap_content"
+    	      android:orientation="horizontal"
+    	      android:paddingLeft="@dimen/small_padding"
+    	      android:paddingRight="@dimen/mini_padding"
+    	      android:paddingTop="@dimen/mini_padding"
+    	      android:paddingBottom="@dimen/mini_padding"
+    	      android:layout_marginTop="@dimen/mini_padding"
+    	      android:background="@color/exercise_bg"
+    	  >
+    	  <TextView
+	            android:id="@+id/saturday_label"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.15"  
+		        android:text="@string/saturday_label"
+		        android:textStyle="bold"
+		        android:textSize="@dimen/medium_title"
+            />
+    	  <TextView
+	            android:id="@+id/saturday_exercise"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.75"  
+		        android:text=""
+		        android:textSize="@dimen/medium_small_title"
+		        android:paddingLeft="@dimen/small_padding"
+            />
+    	   <ImageView 
+		        android:id="@+id/saturday_image"
+		        android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.1"     
+		        android:src="@drawable/grey_tickmark"
+		        android:contentDescription="@string/exercise_image"
+	 	   />
+    	  </LinearLayout>
+    		
+    	  
+    	 <!-- SUNDAY -->
+    	  <LinearLayout android:id="@+id/sunday_layout"
+    	      android:layout_width="fill_parent"
+    	      android:layout_height="wrap_content"
+    	      android:orientation="horizontal"
+    	      android:paddingLeft="@dimen/small_padding"
+    	      android:paddingRight="@dimen/mini_padding"
+    	      android:paddingTop="@dimen/mini_padding"
+    	      android:paddingBottom="@dimen/mini_padding"
+    	      android:layout_marginTop="@dimen/mini_padding"
+    	      android:background="@color/exercise_bg"
+    	  >
+    	  <TextView
+	            android:id="@+id/sunday_label"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.15"  
+		        android:text="@string/sunday_label"
+		        android:textStyle="bold"
+		        android:textSize="@dimen/medium_title"
+            />
+    	  <TextView
+	            android:id="@+id/sunday_exercise"  
+	            android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.75"  
+		        android:text=""
+		        android:textSize="@dimen/medium_small_title"
+		        android:paddingLeft="@dimen/small_padding"
+            />
+    	   <ImageView 
+		        android:id="@+id/sunday_image"
+		        android:layout_width="0px"
+	            android:layout_height="wrap_content"      
+	            android:layout_weight="0.1"     
+		        android:src="@drawable/grey_tickmark"
+		        android:contentDescription="@string/exercise_image"
+	 	   />
+    	  </LinearLayout>
+    	  
+    	  
+   </LinearLayout>  	
+	<!-- END OF WEEKLY WORKOUT CARD -->
+	
+	<!-- GUIDELINES CARD -->
+	<LinearLayout
+		android:id="@+id/trainer_guidelines_layout"    
+	    android:layout_width="fill_parent"
+	    android:layout_height="43dp"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="@dimen/title_padding"
+	    android:padding="@dimen/small_padding"
+	    android:background="@drawable/welcome_bg"
+	>
+
+	    <ImageView 
+	        android:id="@+id/guidelines_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/guidelines_icon"
+	        android:contentDescription="@string/guidelines_image"
+	 	/>
+
+	    <TextView
+	        android:id="@+id/guidelines_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/guidelines_image" 
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:textStyle="bold"
+	        android:textSize="@dimen/medium_title"
+	        android:paddingTop="@dimen/mini_padding"
+	        />
+    </LinearLayout>
+    <!-- END OF GUIDELINES CARD -->
+    
+    <!-- DADS CARD -->
+    <LinearLayout
+		android:id="@+id/trainer_dads_layout"    
+	    android:layout_width="fill_parent"
+	    android:layout_height="43dp"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="@dimen/title_padding"
+	    android:padding="@dimen/small_padding"
+	    android:background="@drawable/welcome_bg"
+	>
+
+	    <ImageView 
+	        android:id="@+id/dads_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/do_n_donts_icon"
+	        android:contentDescription="@string/dads_image"
+	 	/>
+
+	    <TextView
+	        android:id="@+id/dads_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/dads_image" 
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:textStyle="bold"
+	        android:textSize="@dimen/medium_title"
+	        android:paddingTop="@dimen/mini_padding"
+	        />
+    </LinearLayout>
+    <!-- END OF DADS CARD -->
+	
+</LinearLayout>
+</ScrollView>

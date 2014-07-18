@@ -1,0 +1,145 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+    <TextView 
+	        android:id="@+id/adv_note"       
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/adv_note"
+	        android:textSize="@dimen/big_title"
+	        android:paddingTop="@dimen/title_padding"
+	        android:gravity="center_horizontal"
+	        android:paddingBottom="@dimen/cell_padding"
+	        android:textColor="@color/gray_text"       
+	 />
+    
+     <View style="@style/horizontal_divider"
+	          android:id="@+id/about_h_divider_1"	
+	 />
+     
+       <LinearLayout
+        android:id="@+id/smm_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        <TextView
+            android:id="@+id/smm_label"  
+            android:layout_width="0px"
+            android:layout_height="wrap_content"      
+            android:layout_weight="0.4"  
+	        android:paddingTop = "@dimen/cell_padding"
+	        android:paddingBottom = "@dimen/cell_padding"
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:paddingRight="@dimen/cell_padding"
+	        android:text="@string/smm_label"
+	        android:textColor="@color/gray_text"   
+	        android:textSize="@dimen/medium_title"
+            />
+        <View style="@style/vertical_divider"
+	          android:id="@+id/about_v_divider_1"
+	    	/>
+        <EditText
+            android:id="@+id/smm_text"       
+            android:layout_width="0px"
+            android:layout_height="fill_parent"        
+            android:layout_weight="0.2"
+			android:layout_marginLeft="@dimen/cell_padding"
+            android:paddingTop = "@dimen/zero_padding"
+	        android:paddingBottom = "@dimen/zero_padding"
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:paddingRight="@dimen/zero_padding"
+            android:textColor="@color/black_text"
+            android:textSize="@dimen/medium_title"
+       		 android:inputType="numberDecimal"
+      		  android:digits="0123456789."
+        	android:nextFocusDown="@+id/pbf_text"
+    		android:imeOptions="actionNext"
+            android:maxLength="5"
+         	/>
+        <TextView
+            android:id="@+id/kgs_label"  
+            android:layout_width="0px"
+            android:layout_height="wrap_content"      
+            android:layout_weight="0.4"  
+	        android:paddingTop = "@dimen/cell_padding"
+	        android:paddingBottom = "@dimen/cell_padding"
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:paddingRight="@dimen/cell_padding"
+	        android:text="@string/kgs_label"
+	        android:textColor="@color/gray_text"   
+	        android:textSize="@dimen/medium_title"
+            />
+    </LinearLayout>
+    <!--  END OF SMM LAYOUT -->
+    
+    <View style="@style/horizontal_divider"
+	          android:id="@+id/about_h_divider_2"/>
+    	
+	<!--  PBF LAYOUT -->          
+    <LinearLayout
+        android:id="@+id/pbf_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        <TextView
+            android:id="@+id/pbf_label"  
+            android:layout_width="0px"
+            android:layout_height="wrap_content"      
+            android:layout_weight="0.4"  
+	        android:paddingTop = "@dimen/cell_padding"
+	        android:paddingBottom = "@dimen/cell_padding"
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:paddingRight="@dimen/cell_padding"
+	        android:text="@string/pbf_label"
+	        android:textColor="@color/gray_text"   
+	        android:textSize="@dimen/medium_title"
+            />
+        <View style="@style/vertical_divider"
+	          android:id="@+id/about_v_divider_2"
+	    	/>
+        <EditText
+            android:id="@+id/pbf_text"       
+            android:layout_width="0px"
+            android:layout_height="fill_parent"        
+            android:layout_weight="0.2"
+			android:layout_marginLeft="@dimen/cell_padding"
+            android:paddingTop = "@dimen/zero_padding"
+	        android:paddingBottom = "@dimen/zero_padding"
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:paddingRight="@dimen/zero_padding"
+            android:textColor="@color/black_text"
+            android:textSize="@dimen/medium_title"
+    		android:imeOptions="actionDone"
+       		 android:inputType="numberDecimal"
+      		  android:digits="0123456789."
+            android:maxLength="5"
+         	/>
+        <TextView
+            android:id="@+id/kgsm2_label"  
+            android:layout_width="0px"
+            android:layout_height="wrap_content"      
+            android:layout_weight="0.4"  
+	        android:paddingTop = "@dimen/cell_padding"
+	        android:paddingBottom = "@dimen/cell_padding"
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:paddingRight="@dimen/cell_padding"
+	        android:text="@string/percent_label"
+	        android:textColor="@color/gray_text"   
+	        android:textSize="@dimen/medium_title"
+            />
+    </LinearLayout>
+    <!-- END OF PBF SECTION -->
+    <View style="@style/horizontal_divider"
+	          android:id="@+id/about_h_divider_3"/>	
+    
+    	
+</LinearLayout>
+</ScrollView>    

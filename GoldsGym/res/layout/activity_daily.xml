@@ -1,0 +1,72 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_margin="10dp">
+    
+    <LinearLayout android:id="@+id/dummyLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    
+    <RelativeLayout
+	    android:id="@+id/daily_layout"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/welcome_bg"
+	    android:padding="@dimen/cell_padding"
+	    android:orientation="vertical"
+	    
+    >
+    
+    <TextView 
+	        android:id="@+id/title"       
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text=""
+	        android:textSize="@dimen/big_title"
+	        android:textStyle="bold"   
+	 />
+    
+    <TextView 
+	        android:id="@+id/note"       
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text=""
+	        android:textSize="@dimen/medium_title"
+	        android:paddingTop="@dimen/title_padding"  
+	        android:layout_below="@+id/title"
+	 />
+</RelativeLayout>
+
+ <RelativeLayout
+	    android:id="@+id/daily_layout_2"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/welcome_bg"
+	    android:padding="@dimen/cell_padding"
+	    android:orientation="vertical"
+	    android:layout_marginTop="@dimen/title_padding"
+	    
+    >
+    
+    <TextView 
+	        android:id="@+id/title_2"       
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text=""
+	        android:textSize="@dimen/big_title"
+	        android:textStyle="bold"   
+	 />
+    
+    <TextView 
+	        android:id="@+id/note_2"       
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text=""
+	        android:textSize="@dimen/medium_title"
+	        android:paddingTop="@dimen/title_padding"  
+	        android:layout_below="@+id/title_2"
+	 />
+</RelativeLayout>
+</LinearLayout>
+</ScrollView>

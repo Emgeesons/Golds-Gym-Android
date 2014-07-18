@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <EditText
+        android:id="@+id/enter_weight"
+        android:inputType="numberDecimal"
+        android:digits="0123456789."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/cell_padding"
+        android:hint="@string/enter_weight"
+        android:nextFocusDown="@+id/enter_pbf"
+    	android:imeOptions="actionNext"
+        android:maxLength="5" />
+    
+    <EditText
+        android:id="@+id/enter_pbf"
+        android:inputType="numberDecimal"
+        android:digits="0123456789."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/cell_padding"
+        android:hint="@string/enter_pbf"
+        android:nextFocusDown="@+id/enter_smm"
+    	android:imeOptions="actionNext"
+        android:maxLength="5" />
+
+    <EditText
+        android:id="@+id/enter_smm"
+        android:inputType="numberDecimal"
+        android:digits="0123456789."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/cell_padding"
+        android:hint="@string/enter_smm"        
+        android:nextFocusDown="@+id/ok_button"
+    	android:imeOptions="actionDone"
+        android:maxLength="5" />
+    
+
+    
+    <View style="@style/horizontal_divider"
+	          android:id="@+id/about_h_divider_1"
+	          android:paddingTop="@dimen/title_padding"	
+	 />
+     <LinearLayout
+        android:id="@+id/dialog_actions"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+     >
+     
+        <TextView android:id="@+id/cancel_button"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.49"  
+            android:paddingLeft = "50dp"
+            android:paddingTop="@dimen/cell_padding"
+            android:paddingBottom="@dimen/cell_padding"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/cancel"
+	        android:textSize="@dimen/medium_title" />
+        <View style="@style/vertical_divider"
+	          android:id="@+id/about_v_divider_1"
+	    	/>
+        <TextView android:id="@+id/ok_button"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.49"  
+            android:paddingLeft = "60dp"
+            android:paddingTop="@dimen/cell_padding"
+            android:paddingBottom="@dimen/cell_padding"
+            android:text="@string/ok"
+	        android:textSize="@dimen/medium_title" />
+        
+    </LinearLayout>
+    
+</LinearLayout>    

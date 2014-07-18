@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="app_name">My Daily Fitness Guide</string>
+    <string name="app_id">201215670038883</string> 
+   <!--  202433553264013 -->
+    
+    
+    <!-- Action Buttons -->
+	<string name="action_vip_pass">VIP Pass</string>
+	<string name="action_gyms">Gym Locator</string>
+	<string name="action_offers">Offers</string>
+	<string name="action_events">Events</string>
+	<string name="action_share">Share App</string>
+	<string name="action_rate_us">Rate Us</string>
+	<string name="action_terms">Terms and Conditions</string>
+	<string name="action_medical_condition">Next > </string>
+	<string name="action_dietary_recall">Go > </string>
+	<string name="action_body_stats">Next > </string>
+	<string name="action_exercise"> Ok </string>
+	<string name="action_disclaimer"> Agree   >   </string>
+    <string name="action_about_user">Lets get started >   </string>
+    <string name="action_vacation">Going on Vacation</string>
+    <string name="action_reset">Reset Body Stats</string>
+    <string name="action_adv_profile"> OK > </string>
+    <!-- <string name="action_notifications"> Turn Notifications On/Off</string> -->
+    
+    <!-- Terms Screen -->
+    <string name="terms_title"><b><u>F2 FUN &amp; FITNESS (INDIA) PRIVATE LIMITED TERMS AND CONDITIONS OF USE OWNERSHIP</u></b></string>
+    <string name="terms_description">
+    <b>1. GENERAL</b>\n\n
+    You are only authorized to access this Android app (“My Daily Fitness Guide”) and contents hereof or to use the materials contained in the app (regardless of whether your access or use is intended) if you agree to abide by all applicable laws, and to these Terms of Use and Privacy Policy which constitute an Agreement between you and F2 Fun &amp; Fitness (India) Private Limited. By installing the Application (as defined below), you agree to be bound by these terms of use (“appterms”). Please review them carefully before installation and/or acceptance. If you do not agree with them, you should leave this Site immediately. Any questions or comments regarding, or problems with, this app should be sent to the Site Administrator at marketing@goldsgymindia.com. If you become aware of misuse of this Site by any person, please contact the Site Administrator at marketing@goldsgym,india.com  with your concerns.\n\n
+    The “Application” shall mean the software provided by F2 Fun &amp; Fitness (India) Private Limited to offer services related to fitness services and its partners’ services, to be used on Android apps and any upgrades from time to time and any other software or documentation which enables the use of the Application. \n\n
+    <b>CHANGE IN TERMS OF USE AND PRIVACY POLICY:</b>\n\n
+    F2 Fun &amp; Fitness (India) Private Limited reserves the right to change this agreement at any time upon notice to you by:\n\n    
+	(i)a change of notice update on website or the application; or\n\n
+	(ii)by posting a new version of the agreement when the website or application is opened for the first time after the change; or\n\n
+	(iii)E-mail about the new update\n\n
+	IT IS YOUR RESPONSIBILITY TO REVIEW THIS AGREEMENT PERIODICALLY. You will be deemed to have agreed to any such modification or amendment of the Terms of Use if you continue to use the services following the date when such amendment or modification has been posted.\n\n
+	  <b>A. MINORS</b>\n\n
+	  The Service is not directed at users under the age of 13. If you are under the age of 13, you are not permitted to register as a User or use the Service.\n\n
+	  <b>B. </b>\n\n
+	  The Terms and Conditions mentioned herein are to be read in tandem and in conjunction with the Privacy Policy of F2 Fun &amp; Fitness (India) Private Limited.\n\n
+	<b>2. DATA PROTECTION</b>\n\n
+	Any personal information you supply to F2 Fun &amp; Fitness (India) Private Limited when using the Application will be used by F2 Fun &amp; Fitness (India) Private Limited in accordance with its Privacy policy.\n\n
+	<b>3. ACCESS AND USE</b>\n\n
+	All materials contained in this Android app and contents hereof are protected by trademark and copyright laws and must only be used for <b>personal, non-commercial purposes.</b> This means that you may only view or download material from this Site for your own use and you must keep all copyright and other proprietary notices attached to the downloaded material. You have no rights in or to the intellectual property of F2 Fun &amp; Fitness (India) Private Limited or any other party. The license granted in this section is conditioned on your compliance with the terms and conditions of this Agreement. In the event that you breach any provision of this Agreement, your rights under this section will immediately terminate.\n\n
+	The reproduction, duplication, distribution (including by way of email, facsimile or other electronic means), publication, modification, copying or transmission of material from this Site is STRICTLY PROHIBITED unless you have obtained the prior written consent of F2 Fun &amp; Fitness (India) Private Limited. The material covered by this prohibition includes, without limitation, any text, graphics, logos, photographs, audio or video material or stills from audiovisual material available on this app. The use of materials from this Site on any other web site or networked computer environment is similarly prohibited. Requests for permission to reproduce or distribute materials found on this app can be made by contacting F2 Fun &amp; Fitness (India) Private Limited in writing at Business &amp; Legal Affairs at F2 Fun &amp; Fitness (I) Pvt Ltd., “225 "Karishma", Ground floor, Junction of Guru Gangeshwar Marg &amp; 12th Road, Khar (W), Mumbai -400052, Maharashtra, India, email at marketing@goldsgymindia.com\n\n
+	You are also strictly prohibited from creating works or materials that derive from or are based on the materials contained in this Site including, without limitation, fonts, icons, link buttons, wallpaper, desktop themes, on-line postcards and greeting cards and unlicensed merchandise. This prohibition applies regardless of whether the derivative materials are sold, bartered or given away.\n\n
+	You agree that any Message whatsoever submitted by you onto the site becomes the property of F2 Fun &amp; Fitness (India) Private Limited and may be used, copied, sublicensed, adapted, transmitted, distributed, publicly performed, published, displayed or deleted as F2 Fun &amp; Fitness (India) Private Limited sees fit.\n\n
+	<b>4. USER INFORMATION: </b>\n\n
+	   <b>A.PROFILE INFORMATION PROVIDED BY MEMBERS:</b>\n\n
+	   As part of registration, members must create profiles, which may contain certain identifying information (such as Name, contact number, Email id, age, waist, location, height, weight, dietary recall, fat percentage, skeletal muscle mass). F2 Fun &amp; Fitness (India) Private Limited relies on its members to provide current and accurate information, and F2 Fun &amp; Fitness (India) Private Limited does not investigate information contained in member profiles. \n\n
+	   F2 Fun &amp; Fitness (India) Private Limited DOES NOT REPRESENT, WARRANT OR GUARANTEE THE CURRENCY OR ACCURACY OF PUBLIC PROFILE INFORMATION, AND HEREBY DISCLAIMS ALL RESPONSIBILITY AND LIABILITY FOR ANY INFORMATION PROVIDED BY MEMBERS BY MEANS OF PROFILES OR OTHERWISE IN CONNECTION WITH THE SERVICES.\n\n
+	<b>5. USER CONTENT:</b>\n\n
+	<b>"User Content"</b> is any content, materials or information (e.g., any text, information, photos, images, video, and other content and material) that you upload or post, display, perform or distribute by means of, the Services, whether in connection with your use of Website or Application. You hereby grant F2 Fun &amp; Fitness (India) Private Limited a perpetual, fully paid-up, worldwide, irrevocable, assignable license to copy, distribute, publish, transmit, publicly display or perform, edit, modify, translate, reformat and otherwise use User Content in connection with the operation of the Services or any other similar services or related business, in any medium now existing or later devised, including without limitation in advertising and publicity. You further agree that this license includes the right for F2 Fun &amp; Fitness (India) Private Limited Parties to publish, display or otherwise use and make available your User Content and possibly your name and/or any user name of yours in connection with their exercise of the license granted under this section. You will not be compensated for any exercise of the license granted under this section.\n\n
+	F2 Fun &amp; Fitness (India) Private Limited reserves the right to: \n\n
+	(i)remove, suspend, edit or modify any User Content in its sole discretion without notice to you and for any reason which includes violation of Terms of Use or claims and allegations from 3rd parties\n\n
+	(ii)to remove, suspend or block any User Content submissions. F2 Fun &amp; Fitness (India) Private Limited also reserves the right to access, read, preserve, and disclose any information as F2 reasonably believes is necessary to (a) satisfy any applicable law, or regulation, (b) enforce these Terms of Use, including investigation of potential violations hereof, (c) to detect or prevent, or address technical issues and to respond to user support requests.\n\n
+	<b>6. UNSOLICITED SUBMISSIONS</b>\n\n
+	If unsolicited submissions are sent to F2 Fun &amp; Fitness (India) Private Limited via this app, these submissions become the property of F2 Fun &amp; Fitness (India) Private Limited and may be used, copied, sublicensed, adapted, transmitted, distributed, publicly performed, published, displayed or deleted as F2 Fun &amp; Fitness (India) Private Limited sees fit. You agree that you are not entitled to any compensation, credit or notice whatsoever and that by sending an unsolicited submission you waive the right to make any claim against F2 Fun &amp; Fitness (India) Private Limited, its parents or affiliates relating to unsolicited submissions, including, without limitation, unfair competition, breach of implied contract or breach of confidentiality.\n\n
+	F2 Fun &amp; Fitness (India) Private Limited does, however, welcome your feedback regarding the existing business. If you want to send us your feedback, send it to at marketing@goldsgymindia.com. Any feedback you provide at this site shall be deemed to be non-confidential. F2 Fun &amp; Fitness (India) Private Limited shall be free to use such information on an unrestricted basis.\n\n
+	<b>7. PROPRIETARY RIGHTS AND LICENCE </b>\n\n 
+	All trade marks, copyright, database rights and other intellectual property rights of any nature in the Application together with the underlying software code are owned directly by F2 Fun &amp; Fitness (India) Private Limited. \n\n
+	F2 Fun &amp; Fitness (India) Private Limitedhereby grants you a, non-exclusive, royalty-free, license to use the Application for your personal use in accordance with these “appterms”. \n\n
+	<b>8. SERVICES PROVIDED IN APPLICATION:</b>\n\n
+	  <b>A. USE OF THIS APPLICATION DOES NOT CREATE A DOCTOR - PATIENT RELATIONSHIP.  </b>\n\n
+	  F2 Fun &amp; Fitness (India) Private Limited provides the Services for informational purposes only. F2 Fun &amp; Fitness (India) Private Limited is not a medical professional, and does not provide medical services or render medical advice or diagnose or treat any medical or health condition. It is advised that before you use the services provided in the Website and Application, you should consult your Physician if you are in such health that may risk you from exercise or any diet. Also, F2 Fun &amp; Fitness (India) Private Limited is not responsible for any food allergy you may have after following the prescribed diet plan. \n\n
+	  <b>B. </b>\n\n
+	  Nutritional Information provided in the Website and Application has been entered only to give you an idea about the food and to create a food log for your personal use. The database created may not provide you with complete and accurate information about the food nutrition, even though F2 Fun &amp; Fitness (India) Private Limited has tried to meet the standard for you to give you the basic idea about nutrition and diet. F2 Fun &amp; Fitness (India) Private Limited DOES NOT GUARANTEE THE ACCURACY, COMPLETENESS, OR USEFULNESS OF ANY NUTRITIONAL INFORMATION IN THE FOOD LOG. Under no circumstances is F2 Fun &amp; Fitness (India) Private Limited is responsible for any damage or loss resulting on your reliance on the nutritional information provided in the Website and Application.\n\n
+	<b>9. AVAILABILITY </b>\n\n
+	This Application is available to handheld mobile devices running Android app. F2 Fun &amp; Fitness (India) Private Limited will use reasonable efforts to make the Application available at all times. However you acknowledge the Application is provided over the internet and mobile networks and so the quality and availability of the Application may be affected by factors outside F2 Fun &amp; Fitness (India) Private Limited reasonable control. \n\n
+	F2 Fun &amp; Fitness (India) Private Limited, its group of companies do not accept any responsibility whatsoever for unavailability of the Application, or any difficulty or inability to download or access content or any other communication system failure which may result in the Application being unavailable. F2 Fun &amp; Fitness (India) Private Limited will not be responsible for any support or maintenance for the Application. \n\n
+	<b>10. TERMINATION</b>\n\n
+	F2 Fun &amp; Fitness (India) Private Limited reserves the right to immediately terminate your use of, or access to, this app at any time if F2 Fun &amp; Fitness (India) Private Limited decides at its sole discretion that you have breached this Agreement or any relevant law, rule or regulation or you have engaged in conduct that F2 Fun &amp; Fitness (India) Private Limited considers to be inappropriate or unacceptable. In such event F2 Fun &amp; Fitness (India) Private Limited reserves the right to take appropriate legal action against you and you must cease all the use of the software.\n\n
+	<b>11. DISCLAIMER OF LIABILITY AND WARRANTIES</b>\n\n
+	While F2 Fun &amp; Fitness (India) Private Limited does its best to ensure the optimal performance of the app, you agree that you use this app and rely on material contained in this app at your own risk. The app, and all materials in this app, are provided “as is” and, to the fullest extent permitted by law, are provided without warranties of any kind either express or implied. This means, without limitation, that F2 Fun &amp; Fitness (India) Private Limited DOES NOT WARRANT that the app is fit for any particular purpose; that the functions contained in the materials in the app will be uninterrupted; that defects will be corrected; that the app is free of viruses and other harmful components or that the Site is accurate, error free or reliable. You acknowledge that F2 Fun &amp; Fitness (India) Private Limited its parents and affiliates together with their respective employees, agents, directors, officers and shareholders, IS NOT LIABLE for any delays, inaccuracies, failures, errors, omissions, interruptions, deletions, defects, viruses, communication line failures or for the theft, destruction, damage or unauthorized access to your computer system or network.\n\n
+	You acknowledge that F2 Fun &amp; Fitness (India) Private Limited is not liable for any defamatory, offensive or illegal conduct or material found in connection with this app, including such conduct or material transmitted by any means by any other person.\n\n
+	You acknowledge that F2 Fun &amp; Fitness (India) Private Limited(GOLD’S GYM INDIA) is not liable for any damages, including, without limitation, direct, incidental, special, consequential or punitive, civil or criminal damages or actions, in connection with or arising from your use or from your inability to use the Site.\n\n
+	<b>12. YOUR REPRESENTATIONS AND WARRANTIES </b>\n\n
+	You represent and warrant that your use of the website and the Application will be in accordance with this agreement and with any applicable law and regulations.\n\n
+	You warrant and agree not to upload, post, transmit, display, perform or distribute any content, information or other materials in violation of any third party’s copyrights, trademarks, or other intellectual property or proprietary rights. YOU SHALL BE SOLELY RESPONSIBLE FOR ANY VIOLATIONS OF ANY LAWS AND FOR ANY INFRINGEMENTS OF THIRD-PARTY RIGHTS CAUSED BY YOUR USE OF THE WEBSITE, APPLICATIONS AND SERVICES. YOU BEAR THE SOLE BURDEN OF PROVING THAT CONTENT, INFORMATION OR OTHER MATERIALS DO NOT VIOLATE ANY LAWS OR THIRD-PARTY RIGHTS.\n\n
+	<b>13. RISK ASSUMPTION </b>\n\n
+	YOU KNOWINGLY AND FREELY ASSUME ALL RISK WHEN USING THE WEBSITE, APPLICATIONS AND SERVICES. YOU, ON BEHALF OF YOURSELF, YOUR PERSONAL REPRESENTATIVES AND YOUR HEIRS, HEREBY VOLUNTARILY AGREE TO RELEASE, WAIVE, DISCHARGE, HOLD HARMLESS, DEFEND AND INDEMNIFY MYFITNESSPAL AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AFFILIATES, REPRESENTATIVES, SUBLICENSEES, SUCCESSORS, AND ASSIGNS FROM ANY AND ALL CLAIMS, ACTIONS OR LOSSES FOR BODILY INJURY, PROPERTY DAMAGE, WRONGFUL DEATH, EMOTIONAL DISTRESS, LOSS OF SERVICES OR OTHER DAMAGES OR HARM, WHETHER TO YOU OR TO THIRD PARTIES, WHICH MAY RESULT FROM YOUR USE OF THE SERVICES.\n\n
+	<b>NO WARRANTY</b>\n\n
+	WE, OUR SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES AND OUR SUPPLIERS PROVIDE OUR APP AND SERVICES "AS IS" AND WITHOUT ANY WARRANTY OR CONDITION, EXPRESS, IMPLIED OR STATUTORY. WE, OUR SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES AND OUR SUPPLIERS SPECIFICALLY DISCLAIM ANY IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.\n\n
+	<b>15. INDEMNITY</b>\n\n
+	You agree to defend, indemnify and hold harmless F2 Fun &amp; Fitness (India) Private Limited, its parents and affiliates together with their respective employees, agents, directors, officers and shareholders, from and against all the liabilities, claims, damages and expenses (including reasonable attorney’s fees and costs) arising out of your use of this app; your failure to use the app; your breach or alleged breach of this Agreement or your breach or alleged breach of the copyright, trademark, proprietary or other rights of third parties.\n\n
+	<b>16. LEGAL COMPLIANCE</b>\n\n
+	You shall comply with all applicable domestic laws, statutes, ordinances and regulations regarding your use of our service and your bidding on, listing, purchase, solicitation of offers to purchase, and sale of memberships.\n\n
+	<b>17. NOTICES</b>\n\n
+	Except as explicitly stated otherwise, any notices shall be given by postal mail to F2 Fun &amp; Fitness (India) Private Limited Attn: Legal Department, F2 Fun &amp; Fitness (I) Pvt Ltd., 225 "Karishma", Ground floor, Junction of Guru Gangeshwar Marg &amp; 12th Road, Khar (W), Mumbai -400052, Maharashtra, India, or to the email address you provide F2 Fun &amp; Fitness (India) Private Limited during the registration process (in your case). Notice shall be deemed given 24 hours after email is sent, unless the sending party is notified that the email address is invalid. Alternatively, we may give you notice by certified mail, postage prepaid and return receipt requested, to the address provided to F2 Fun &amp; Fitness (India) Private Limited during the registration process. In such case, notice shall be deemed given 3 days after the date of mailing.\n\n     
+	
+	  
+	  
+	          
+    </string>    
+        
+    <!-- Disclaimer Screen -->
+    <string name="disclaimer_title"><u>Disclaimer</u></string>
+    <string name="disclaimer_description">
+	You expressly agree that the use of this software is at your own risk. You also further expressly agree that you have completed 13 years of age and in sound health conditions for the use of “My Daily Fitness Guide.”Before you start to workout, it is recommended to consult a doctor.\n
+    Know your limits and capabilities! \n\n
+    It is recommended to advance in a gradual manner, and not to skip and use higher weights or difficult exercises which your body is not ready for. \n\n
+    All material herein is provided for informative purpose only and may not be construed as personal medical advice.\n\n
+    No action should be taken based solely on the contents of this information; instead, users of this software should consult appropriate health professionals on any matter relating to their health and well-being. \n\n
+	Any application of the recommendations or use of the information contained therein is at your own discretion and sole risk, and you specifically waive any right to make any claims against F2 Fun &amp; Fitness (India) Pvt. Ltd., its officers, Directors, Employees, agents, affiliates, business associates or representatives as the result of the use of such information.\n\n
+	Under no circumstances shall F2 Fun &amp; Fitness (India) Pvt. Ltd., its officers, Directors, Employees, agents, affiliates, business associates or representatives be liable to you or any third-party for any direct or indirect, consequential, incidental, special or punitive damages, whether in contract or in tort, including negligence, arising in any way from the use of information or the results of the use of the information provided therein.\n\n
+	F2 Fun &amp; Fitness (India) Pvt. Ltd. is not a licensed medical care provider. The information is provided with the understanding that Gold’s Gym India is not engaged in the practice of medicine or any other health-care profession and does not enter into a health-care practitioner or any patient relationship with any users.\n\n
+	F2 Fun &amp; Fitness (India) Pvt. Ltd.  is not responsible for the accuracy, reliability, effectiveness, or correct use of information you receive through our product, or for any health issues or problems that may result from training programs, \n\n
+	F2 Fun &amp; Fitness (India) Pvt. Ltd. is not responsible for errors or omissions. None of the information presented by this software is intended to diagnose, treat, mitigate or cure any disease.\n\n
+	Any information provided by this software, including exercises execution and information, and generated workouts, is provided for informative purposes only.\n\n
+	F2 Fun &amp; Fitness (India) Pvt. Ltd.  is not liable or responsible in any way for the health or safety of any user of this program or its products.\n\n
+	You should understand that when participating in any exercise or exercise program, there is the possibility of physical injury. If you engage in this exercise or exercise program, you agree that you do so at your own risk, are voluntarily participating in these activities, assumes all risk of injury to yourself, and agree to release and discharge F2 Fun &amp; Fitness (India) Pvt. Ltd.  and its officers, Directors, Employees, agents, affiliates, business associates or representatives from any or all claims or causes of action known or unknown, arising out of F2 Fun &amp; Fitness (India) Pvt. Ltd. and / or its officers, Directors, employees, agents, affiliates, business associates or representatives negligence.\n\n
+	F2 Fun &amp; Fitness (India) Pvt. Ltd.  is not liable or responsible in any way for any personal injury, death or pregnancy of anyone who uses this software.\n\n
+	You hereby agree that F2 Fun &amp; Fitness (India) Pvt. Ltd. receives and stores any personally identifiable information you enter on our Mobile Application or provide it in any other way (such as your name, contact number, Email id, Age, waist, location, height, weight, dietary recall, fat percentage, skeletal muscle mass) at your sole discretion. Also, if you contact F2 Fun &amp; Fitness (India) Pvt. Ltd. Online, we will keep a record of that correspondence. Such information is known to F2 Fun &amp; Fitness (India) Pvt. Ltd. when it is voluntarily submitted or posted to us.\n
+    </string>
+    
+    <string name="license_title"><u>End User License Agreement</u></string>
+    <string name="license_description">
+    By downloading any application from F2 Fun &amp; Fitness (India) Private limited (herein after referred as “The Company”), installing or using this application or any portion thereof (“Application”), you agree to the following terms and conditions (the “Terms and Conditions”).\n\n
+    <b>1. USE OF APPLICATION</b>\n\n
+    a. The Company grants you the non-exclusive, non-transferable, limited right and license to install and use this Application solely only for your personal use. It MAY NOT in any case be used for commercial purposes.\n\n
+    b. You may not use the Application in any manner that could damage, disable or impair or disrupt the Application nor may you use the Application in any manner that could interfere with any other party’s use and enjoyment of the Application (or servers or networks connected to the Application).\n\n
+    c.  You are solely responsible for any use of the Application and for any breach of your obligations under the Terms and Conditions, and for the consequences (including any loss or damage which The Company may suffer) as a result of any such breach.\n\n
+    <b>2. PROPRIETARY RIGHTS</b>\n\n
+    You acknowledge that (a) the Application contains proprietary and confidential information that is protected by applicable intellectual property and other laws, and (b) The Company owns all right, title and interest in and to the Application and content, excluding content provided by you, that may be presented or accessed through the Application, including without limitation all Intellectual Property Rights therein and thereto. “Intellectual Property Rights” means any and all rights existing from time to time under patent law, copyright law, trade secret law, trade mark law, unfair competition law, and any and all other proprietary rights, and any and all applications, renewals, extensions and restorations thereof, now or hereafter in force and effect worldwide. You agree that you will not allow any third party to, (i) copy, sell, license, distribute, transfer, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the Application or content that may be presented or accessed through the Application for any purpose, unless otherwise permitted by F2, (ii) take any action to circumvent or defeat the security or content usage rules provided, deployed or enforced by any functionality (including without limitation digital rights management functionality) contained in the Application, (iii) use the Application to access, copy, transfer or retransmit content in violation of any law or third party rights, or (iv) remove, obscure, or alter The Company’s or any third party trade marks, copyright notices, trade marks, or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through the Application.\n\n
+    <b>3. THE COMPANY TERMS OF SERVICE AND PRIVACY POLICY</b>\n\n
+    a. The Company’s Privacy Policy explains how The Company treats your information and protects your privacy when you use the Application. You agree to the use of your data in accordance with The Company’s privacy policies.\n\n
+	b. Your use of any feature of the Application is also governed by The Company’s Terms of Use. Terms of Use and Privacy policy may be updated or modified. It is advised you to check the Terms of Use and Privacy Policy periodically as they may be modified.\n\n
+	<b>4. TERMINATION</b>\n\n
+	These Terms and Conditions will continue to apply until terminated by either you or The Company as set forth below. You may terminate these Terms and Conditions at any time by permanently deleting the Application from your mobile device or any other device in its entirety. Your rights automatically and immediately terminate without notice from The Company or any Third Party. If you fail to comply with any provision of these Terms and Conditions. In such event, you must immediately delete the Application.\n\n
+	<b>5. INDEMNITY</b>\n\n
+	To the maximum extent permitted by law, you agree to defend, indemnify and hold harmless The Company, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs and expenses (including reasonable attorneys fees) arising out of or accruing from your use of the Application, including your downloading, installation, or use of the Application, or your violation of these Terms and Conditions.\n\n
+	<b>6. DISCLAIMER OF WARRANTIES</b>\n\n
+	a. YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE APPLICATION IS AT YOUR SOLE DISCRETION AND RISK AND THAT THE APPLICATION IS PROVIDED AS IS AND AS AVAILABLE WITHOUT WARRANTY OF ANY KIND.\n\n
+	b. YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR MOBILE DEVICE, OR OTHER DEVICE, OR LOSS OF DATA THAT RESULTS FROM SUCH USE.\n\n
+	c. THE COMPANY FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, WITH RESPECT TO THE APPLICATION.\n\n
+	<b>7. LIMITATION OF LIABILITY</b>\n\n
+	YOU EXPRESSLY UNDERSTAND AND AGREE THAT THE COMPANY, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS ARE NOT LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU THROUGH YOUR USE OF THE APPLICATION, INCLUDING ANY LOSS OF DATA OR DAMAGE TO YOUR MOBILE DEVICE, WHETHER OR NOT THE COMPANY OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.\n
+   
+    </string>    
+    
+    <!-- About User Screen -->
+    <string name="welcome_note">Welcome! Lets Activate your Account</string>
+    <string name="end_note">We use this information to tailer your workout plans</string>
+	<string name="name_label">Name </string>
+	<string name="age_label"> Age</string>
+	<string name="weight_label">Weight</string>
+	<string name="gender_label">Gender </string>
+	<string name="height_label">Height</string>
+	<string name="feet_label">feet</string>
+	<string name="inches_label">inches</string>
+	<string name="yrs_label">_____ Yrs</string>
+	<string name="kgs_label">kgs</string>
+	<string name="number_label">Contact</string>
+	<string name="area_label">Area</string>
+	<string name="email_label">Email </string>
+	<string name="male">Male </string>
+	<string name="female">Female </string>
+	<string name="get_started_image">Welcome </string>
+	<string name="get_started_button">Lets Get Started </string>
+	<string name="get_started_label">Lets see what you are really made off!! </string>
+	
+	
+	<!-- Home Screen -->
+	<string name="home_screen_label">Howdy XYZ,</string>
+	
+	<!-- Body Mass Screen -->
+	<string name="body_note">Body Mass Calculation</string>
+	<string name="waist_label">Waist</string>
+	<string name="bmi_note">Your BMI is 29.35. You are 19.9 kgs overweight</string>
+	<string name="fat_percentage_label">percent </string>
+	<string name="fat_label">Fat % </string>
+	<string name="bmi_image">BMI Indicator </string>
+	
+	<!-- Exercise Level Screen -->
+	<string name="beginner_level">Beginner Level</string>
+	<string name="intermediate_level">Intermediate Level</string>
+	<string name="advanced_level">Advanced Level</string>
+	
+	<!-- Medical Condition Screen -->
+	<string name="medical_note">Tell us about your medical condition</string>
+	<string name="medical_label">Any Health Problems</string>
+	<string name="check_hyper">Heart / Hypertension / High BP</string>
+	<string name="check_diabetese">Diabetes</string>
+	<string name="check_back">Lower back</string>
+	<string name="check_spondilytis">Spondilytis</string>
+	<string name="check_knee">Knee</string>
+	<string name="check_wrist">Wrist</string>
+	<string name="check_pregnancy">Pregnancy</string>
+	<string name="check_thyroid">Thyroid (hypo thyroid)</string>
+	<string name="check_cholesterol">Cholesterol</string>
+	<string name="check_pcos">PCOS</string>
+	<string name="check_other">Any Other Life Threatening Diseases</string>
+	<string name="check_none">None</string>
+	
+	<!-- CHANGE ROUTINE -->
+	<string name="course_correction">Course Correction</string>
+	<string name="next"> NEXT </string>
+	<string name="question_text">Is This Excess Weight Due To - </string>
+	<string name="fat"> Fat </string>
+	<string name="fat_result_1">That\'s not very good. Looks like you need to concentrate on your program more if you want to see good results.\n\n
+								Continue with your schedule as mentioned and add 5 - 10 mins to your cardio session to see better results.</string>
+	<string name="fat_result_2">That\'s not very good. Looks like you need to concentrate on your program more if you want to see good results.\n\n
+								Continue with your schedule as mentioned and add 10 - 15 mins to your cardio session to see better results.</string>
+	<string name="fat_result_3">That\'s not very good. Looks like you need to concentrate on your program more if you want to see good results.\n\n
+								Continue with your schedule as mentioned and add 15 - 20 mins to your cardio session to see better results.</string>
+	<string name="muscle">Muscle</string>
+	<string name="muscle_result">That\'s great, You are very close to your goal. Continue with your workouts.</string>
+	<string name="dont_know"> Don\'t Know</string>
+	<string name="dont_know_result">It would be good if you can check this out. Please visit your nearest gym to do a Body analysis. Continue with your workouts.</string>
+	
+	<!-- Dietary Recall Screen -->
+	<string name="dietary_note">Tell Us About Your Average Daily Meal</string>
+	<string name="breakfast_title">Breakfast</string>
+	<string name="lunch_title">Lunch    </string>
+	<string name="snacks_title">Snacks   </string>
+	<string name="dinner_title">Dinner   </string>
+	<string name="other_title">Other    </string>
+	<string name="bedtime_title">Bedtime  </string>
+	<string name="veg">Veg</string>
+	<string name="nonveg">Non Veg</string>
+	<string name="skip_meal">(skip meal)</string>
+    
+     <!-- Nutritionist Screen -->
+	<string name="guidelines_image">Guidelines</string>
+	<string name="dads_image">Dos And Dont\'s</string>
+	
+	<!-- Trainer Screen -->
+	<string name="achievement_image">Achievement</string>
+	<string name="facebook_image">Facebook</string>
+	<string name="motivational_image">Motivation</string>
+	<string name="trainer_weight_image">Log your Body Stats</string>
+	<string name="trainer_log_workout_image">Log Yesterdays Workout</string>
+	<string name="weekly_title">Weekly Schedule</string>
+	<string name="monday_label">Mon</string>
+	<string name="tuesday_label">Tue</string>
+	<string name="wednesday_label">Wed</string>
+	<string name="thursday_label">Thu</string>
+	<string name="friday_label">Fri</string>
+	<string name="saturday_label">Sat</string>
+	<string name="sunday_label">Sun</string>
+	<string name="exercise_image">Tick</string>
+	<string name="vacation_quote">Don\'t let your health take a vacation. Follow this schedule till you are back</string>
+	<string name="advanced_profile">Set up your Advanced Profile</string>
+	
+	
+    <!-- Profile Page Screen -->
+	<string name="profile_picture_frame">frame</string>
+	<string name="profile_picture">Profile Picture</string>
+	<string name="profile_label_workouts">Total Workouts</string>
+	<string name="profile_label_workouts_missed">Workouts Missed</string>
+	<string name="profile_label_days_left">Days Left</string>
+	<string name="profile_shadow">Profile Shadow</string>
+	<string name="profile_add_log">Add</string>
+	<string name="profile_graph_frame">Graph Frame</string>
+    
+    <string name="enter_weight">Weight in Kgs</string>
+    <string name="enter_pbf">Percentage Body Fat</string>
+    <string name="enter_smm">Skeletal Muscle Mass</string>
+    <string name="date_title">Select Date</string>
+    <string name="add_log">Enter Your Body Stats</string>
+    <string name="add_description">Add Description</string>
+    
+    <!-- Guidelines Screen -->
+	<string name="guideline_title">Guidelines</string>
+	<string name="weight_loss_guidelines"><ol><li>Ensure that you eat your meals on time \n\n</li>
+	    		<li>Take a hearty breakfast \n\n</li>
+	    		<li>Eating breakfast reduces your hunger later in the day, making it easier to avoid overeating. In addition, prolonged fasting which occurs when you skip breakfast can increase your body\'s insulin response, which in turn increases fat storage and weight gain. \n\n</li>
+	    		<li>Do not replace your main meals with fruits \n\n</li>
+	    		<li>Increase your daily intake of water, especially in between meals.  \n\n</li>
+	    		<li>Eat slowly in a comfortable, relaxed environment. \n\n</li>
+	    		<li>Go high on Vegetables \n\n</li>
+	    		<li>Do not skip your meals. Do not keep a gap of more than three hours in between meals \n\n</li>
+	    		<li>Start your meal with salad and then move on to your main meals.  \n\n</li>
+	    		<li>Avoid the products made from sugar, jaggery and honey. \n\n</li>
+	    		<li>Restrict products made from maida like bread, khari, toast, butter, biscuits, etc \n\n</li>
+	    		<li>Use cow\'s milk/ skimmed milk instead of buffalo\'s milk. \n\n</li>	    		
+	    		<li>Have plenty of vegetables, green leafy vegetables, sprouts, salads etc in your day to day meals.\n\n</li>
+	    		<li>Restrict Papads, pickles, ketchups, canned foods etc\n\n</li>
+	    		<li>Opt for low fat curd or vinegar or salsa dressing instead of mayo or cheese dressing.\n\n</li>
+	    		<li>Fruits allowed (Apple/ Sweet lime / Oranges / pear / straw berries/ papaya / guava / kiwi/ Grape fruit etc) \n\n</li>
+	    		<li>Avoid pulpy fruits like banaa, chickoo, mango and custard apple. instead have more of juicy fruits like orange \n\n</li>
+	    		<li>Go for unsweetened beverages like Green Tea / Ice Tea / Diet Soda instead of milkshakes, ice-creams or soft drinks \n\n</li>
+	    		<li>Restrict the intake of fresh coconut, dry coconut and groundnuts.\n\n</li>
+	    		<li>Avoid butter, cheese, jam, jellies, pastries, sweets, ice-cream and alcohol. \n\n</li>
+	    		<li>Opt for grilled or roasted items instead of fried foods, especially when eating outside. \n\n</li>
+	    		</ol></string>
+	<string name="weight_gain_guidelines"><ol><li>Eat energy dense foods \n\n</li>
+	    		<li>Eat more protein rich foods like milk and milk products, pulses, nuts and oilseeds, fish, chicken \n\n</li>
+	    		<li>Eat foods at regular interval \n\n</li>
+	    		<li>Eat more sweet fruits like banana, chickoo, custard apple,  grapes and mango \n\n</li>
+	    		<li>Eat more starchy vegetables like potato, sweet potato \n\n</li>
+	    		<li>Do not starve yourself \n\n</li>
+	    		<li>Drink plenty of water \n\n</li>
+	    		<li>Eat plenty of cereals like bread, pasta, noodles, rice, rotis etc. \n\n</li>
+	    		</ol>
+	 </string>
+	
+	<!-- Vacation -->
+	<string name="vacation_title">When will you come back</string>
+	<string name="vacation_heading">Vacation Mode</string>
+	<string name="vacation_note">Don\'t lose out during your vacation. We will provide a Suitable Training Workout during your Vacation</string>
+	
+	<!-- Menu Botton Strings -->
+	<string name="rating_link">https://play.google.com/store/apps/details?id=com.emgeesons.goldsgym</string>
+	<string name="terms_link">http://www.goldsgymindia.com/terms_conditions.htm</string>
+	
+	<!-- Gym Location Page -->
+	<string name="map_description">Get Directions</string>
+	
+	<!-- Offers Page -->
+	<string name="delimiter_description">Delimiter</string>
+	<string name="text_shadow_image">Shadow</string>
+	<string name="offers_image">Image</string>
+	
+	<!-- Refer a Friend Strings -->
+	<string name="cancel">Cancel</string>
+	<string name="ok">OK</string>
+	<string name="referNote">An email will be sent to Gold\'s Gym and your referred friend</string>
+	<string name="friends_name">Friends Name</string>
+	<string name="friends_email">Friends Email</string>
+	<string name="friends_phone">Friends Phone</string>
+	
+	<!-- Others -->
+	<string name="exercise_name">Squats</string>
+	<string name="exercise_image">Content Description for Image Exercise</string>
+    <string name="hello_world">Hello Gold\'s Gym!</string>
+    
+    <!--  Advanced Profile -->
+	<string name="smm_label">Skeletal Muscle Mass</string>
+	<string name="pbf_label">Percentage Body Fat</string>
+	<string name="whr_label">Waist-Hip Ratio</string>
+	<string name="bmr_label">Basal Metabolic Ratio</string>
+	<string name="fitness_label">Fitness Score</string>
+	<string name="adv_note">Complete your Profile and gain more</string>
+	<!-- <string name="kgsm2_label">kg\/m2</string>-->
+	<string name="percent_label">%</string>
+	<string name="kcal_label">Kcal</string>
+	<string name="points_label">points</string>
+	
+</resources>

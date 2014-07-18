@@ -1,0 +1,27 @@
+<resources>
+    <color name="actionbar_text">#ffff00</color>
+    <color name="buttonbar_text">#f00f00</color>
+    <color name="dark_gray">#25383C</color>
+    <color name="light_gray">#f0f0f0</color>
+    <color name="gray_daily">#e5e5e5</color>
+    <color name="royal_blue">#0000ff</color>
+    <color name="gray_text">#8e8e93</color>
+    <color name="exercise_bg">#10000000</color>
+	<color name="blue_text">#4374ff</color>
+	<color name="black_text">#000000</color>
+	<color name="title_bar_top">#000000</color>
+	<color name="title_bar_bottom">#45494d</color>
+	<color name="gold_text">#b4b498</color>
+	<color name="gyms_gray_text">#7d7d7d</color>
+	<!-- <color name="default_screen_bg">#20324a</color>
+    <color name="rounded_container_bg">#80000000</color>
+    <color name="rounded_container_border">#3b3f44</color>-->
+    <color name="light_gray_header_color">#646663</color>
+    <color name="offers_background_color">#dcdbc8</color>
+    <color name="offers_gray_text">#676767</color>
+    <!-- Yesterday Workout Colors -->
+    <color name="red">#ff0000</color>
+    <color name="green">#008c00</color>
+    <color name="white">#ffffff</color>
+    <color name="black_transparent">#00000088</color>
+</resources>

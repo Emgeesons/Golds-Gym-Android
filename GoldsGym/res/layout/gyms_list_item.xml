@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="15dp"
+    android:paddingBottom="15dp"
+    android:orientation="vertical" >
+
+    <View style="@style/horizontal_divider"
+	          android:id="@+id/about_h_divider_1"	
+	 />
+    <TextView
+        android:id="@+id/gym_title"
+        android:paddingTop="15dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingBottom="4dp"
+        android:textSize="@dimen/big_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+     />
+    <TextView
+        android:id="@+id/gym_address"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="4dp"
+        android:textSize="@dimen/regular_text_size"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gold_text"  
+     />
+    <TextView
+        android:id="@+id/gym_tel"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="4dp"
+        android:textSize="@dimen/regular_text_size"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gold_text"
+     />
+    <TextView
+        android:id="@+id/gym_email"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="4dp"
+        android:textSize="@dimen/small_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gyms_gray_text"
+     />
+    <LinearLayout
+        android:id="@+id/gym_timings_map_layout"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+	    android:paddingTop="4dp"
+	    android:paddingBottom="4dp"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent">        
+        <TextView
+	        android:id="@+id/gym_timings"
+	        android:textSize="@dimen/small_title"  
+            android:layout_width="0px"
+            android:layout_height="wrap_content"      
+            android:layout_weight="0.75"  
+	        android:textColor="@color/gyms_gray_text"
+        />
+        <ImageView 
+	        android:id="@+id/map_image"
+	        android:layout_width="0px"
+	        android:layout_height="25dp"   
+            android:layout_weight="0.25"       
+	        android:src="@drawable/map"
+	        android:contentDescription="@string/map_description"
+	        android:clickable="true" />
+    </LinearLayout>
+    
+    <View style="@style/horizontal_divider"
+	          android:id="@+id/about_h_divider_2"	
+	 />
+    <ImageView 
+	        android:id="@+id/shadow_image"      
+	        android:src="@drawable/shadow"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:contentDescription="@string/map_description"
+	 />
+</LinearLayout>

@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="default_exercise"></string>
+
+    <string name="stationary_bike">Adjust the seat. Your leg should be almost, but not quite, straight. You shouldn\'t have to strain or rock your hips to pedal. \n\n
+Hold the bar so that your arms extend out at shoulder level. \n\n
+Adjust the pedal straps so that your feet feel snug but don\'t let the straps cut off your circulation. \n\n
+Keep your chest up, shoulders back and down, ears in line with your shoulders, and belly button drawn in an dstart pedalling\n\n
+</string>
+
+    <string name="walking_workout">Step on to a treadmilll or switch it on. Start walking. \n\n
+Set the time and adjust the speed. Start slowly and increase the speed as you progress and are able to get control of your posture and gait.\n\n
+Hold your head up and eyes forward. Your shoulders should be down, back and relaxed. \n\n
+Tighten your abdominal muscles and buttocks and fall into a natural stride.\n\n
+</string>
+
+    <string name="elliptical_workout">Step on to the elliptical machine, grab the handlebar and place your feet into the pedals.  2\n\n
+Your feet should be parallel to the inside edges of the pedals. \n\n
+Your spine must be straight to prevent your back from experiencing strain as you perform the exercise movements.\n\n
+You can move your feet in the slots provided. You can control the intensity of your workouts by managing the resistance and incline levels of the equipment. \n\n        
+</string>
+
+    <string name='squats'>Set the barbell on the rack with required weight. \n\n
+Position bar on back of shoulders and grasp barbell at sides. \n\n
+Stand with shoulder width stance and Dismount bar from rack. \n\n
+Bend knees forward while allowing hips to bend back behind. Keeping back straight and knees pointed same direction as feet. \n\n
+Descend until thighs are just past parallel to floor. \n\n
+Extend knees and hips until legs are straight. \n\n
+Repeat.\n\n
+</string>
+
+    <string name='leg_press'>Sit on machine with back on padded support. \n\n
+Place feet on platform. Grasp handles to sides. \n\n
+Push away from platform by extending knees and hips. \n\n
+Repeat. \n\n
+</string>        
+
+    <string name='leg_extension'>Sit on machine with back against padded back support. \n\n
+Place front of lower legs under padded lever. \n\n
+Position knee articulation at same axis as lever fulcrum. \n\n
+Grasp handles at sides for support.\n\n
+Move lever forward and upward by extending knees until leg are straight. \n\n
+Return lever to original position by bending knees. \n\n
+Repeat. \n\n
+</string>
+
+    <string name='lunges'>Set the barbell on the rack with required weight. \n\n
+Position bar on back of shoulders and grasp barbell at sides. \n\n
+Stand with shoulder width stance and Dismount bar from rack. \n\n
+Look straight ahead, straighten your back and pull abdominal muscles in tight.\n\n
+Take a large step forward landing on heel first. The step should be long enough to where the back foot\'s hell lifts off the ground. \n\n
+Lower yourself, while breathing in, until your legs are at a 90 degree angle with keeping your weight on forward heel. Your knee should line up over the top of foot and not over the toes. \n\n
+Push back up through the heel on the forward foot, while breathing out, to starting position. \n\n
+Continue on same leg until desired repetitions are completed, then switch legs and repeat. \n\n
+</string>
+
+    <string name='step_ups'>Stand behind a 15-inch platform or step. You can hold a weight if you like. \n\n
+Place the right foot on the step, transfer the weight to the heel and push into the heel to come onto the step. \n\n
+Concentrate on only using the right leg, keeping the left leg active only for balance. \n\n
+Slowly step back down and repeat all reps on the right leg before switching to the left.\n\n
+</string>
+
+    <string name='jump_squats'>Stand as tall as you can with your feet spread shoulder-width apart.\n\n
+Place your hand on your waist.\n\n
+Explosively jump as high as you can. Imagine you\'re pushing the floor away from you as you leap.\n\n
+When you land, immediately squat down and jump again.\n\n
+Your arms should stay in the same position from start to finish.\n\n
+</string>
+
+    <string name='dynamic_lunges'>Stand at a slightly wider than hip distance. Hold dumbbells in hand.\n\n
+Step forward maintaining the same relative distance between the legs. Toe slightly pointed out\n\n
+Bend at hip. Knee to descend down  till thighs are parallel to floor. Breathe in during this phase.\n\n
+Push from the heel and straighten at the knee and hip to reach the start position. Breathe out during this phase.\n\n
+Step back to position where both the knees are in same line.\n\n
+Step forward again with the same leg or the opposite leg for the required number of reps.\n\n
+</string>
+
+    <string name='standing_calf_raises'>Position toes and balls of feet on calf block with arches and heels extending off. \n\n
+Place hand on support for balance. \n\n
+Raise heels by extending ankles as high as possible. \n\n
+Lower heels by bending ankles until calves are stretched. \n\n
+Repeat. \n\n
+</string>
+
+    <string name='seated_calf_raises'>Sit on seat facing lever. \n\n
+Reach forward and pull hand lever toward body. \n\n
+Place forefeet on platform with heels extending off. \n\n
+Position lower thighs under lever pads. \n\n
+Release hand lever by pushing away from body. Place hands on top of thigh pads. \n\n
+Raise heels by extending ankles as high as possible. \n\n
+Lower heels by bending ankles until calves are stretched. \n\n
+Repeat.\n\n
+</string>        
+
+    <string name='prone_leg_curl'>Lie down on your abdomen on the seat of the machine. \n\n
+Adjust the desired weights on the weight stack. The Hip joint should approximately coincide with the curvature of the seat.\n\n
+Align the knee joint with the hinge(joint) of the machine. \n\n
+Put the heel under the foot pad such that the foot pad rests about 3 to 5 inches above the ankle joint. The toe should be pointed toward the shin.\n\n
+Hold the handles by the sides of the seat and arch your back to lift the upper body off the cushion.\n\n
+Curl the legs towards your buttocks without lifting the buttocks off the seat. Breathe out.\n\n
+Slowly lower the foot cushion. Breathe in\n\n
+Repeat\n\n
+</string>
+
+    <string name='seated_leg_curl'>Sit on machine with back against padded back support. \n\n
+Place back of lower leg on top of padded lever. \n\n
+Secure lap pad against thigh just above knees. \n\n
+Grasp handles on lap support.\n\n
+Pull lever to back of thighs by flexing knees. \n\n
+Return lever until knees are straight. \n\n
+Repeat. \n\n
+</string>
+
+    <string name='back_extension'>Sit in the seat with the buttocks at the back of the seat\n\n
+Position the roller so that it is against your shoulder blades\n\n
+Maintain a curve in the lower back and the shoulders back and chest high throughout the exercise\n\n
+Push back from an upright position, to extend the back towards horizontal (stop before you get there!) \n\n
+Slowly return to an upright position\n\n
+</string>
+
+    <string name='lat_pull_down'>Sit on the machine with hands on the upper lever using a pronated grip \n\n
+Grab lever slightly wider than shoulder width\n\n
+Pull down the lever upto chest then straighten the arms. \n\n
+Pull with the back and arms. \n\n
+Pull the elbows back and downwards and touch the chest. \n\n
+</string>
+
+   <string name='seated_row'>Sit on machine with feet flat on floor, knees above ankles. Keep back straight with front of body supported by the pad.\n\n
+Reach forward and grip the handles, palms facing each other. \n\n
+Exhale. Pull the handles, bending elbows and pointing them behind you as you focus on squeezing your shoulder blades towards each other.\n\n
+Keep your arms close to the sides of the body. Make sure your wrists don\'t bend--keep them in line with the forearm. Don\'t let your chest or body lift away from the pad in front of you.\n\n
+Slowly straighten the arms to the starting position. Inhale\n\n
+</string>
+
+   <string name='cable_seated_row'>Sit forward on seat or bench and grasp cable attachment. \n\n
+Place feet on vertical platform. \n\n
+Slide hips back positioning knees with slight bend. \n\n
+Pull cable attachment to waist while straightening lower back. \n\n
+Pull shoulders back and push chest forward while arching back. \n\n
+Return until arms are extended, shoulders are stretched forward, and lower back is flexed forward. Repeat.\n\n
+</string>
+
+   <string name='bent_over_barbell_row'>Bend knees slightly and bend over bar with back straight. \n\n
+Grasp bar with shoulder width underhand grip. \n\n
+Pull bar to upper waist. \n\n
+Return until arms are extended and shoulders are stretched downward. \n\n
+Repeat. \n\n
+</string>
+
+   <string name='one_arm_dumbbell_row'>Kneel over side of bench by placing knee and hand of supporting arm on bench. \n\n
+Position foot of opposite leg slightly back to side. \n\n
+Grasp dumbbell from floor. Pull dumbbell to up to side until it makes contact with ribs or until upper arm is just beyond horizontal. \n\n
+Return until arm is extended and shoulder is stretched downward. Repeat with other hand.\n\n
+</string>
+
+   <string name='chest_press'>Stand in front of machine facing away from cable column. \n\n
+You can use cables or a bar. Hold the bar at shoulder level with both hands. \n\n
+Position forearms horizontal and parallel with hands elbow width. Step forward in lunging posture (one foot in front and other foot behind). Lean and step forward with one foot in front, bending forward leg. \n\n
+Pull bar in to mid-chest. \n\n
+Press bar upward until arms are extended. Repeat. \n\n
+</string>
+
+   <string name='chest_pec_fly'>Preset the handles with the proper range of motion for you in the pre-stretch position. \n\n
+Place the pin in the desired weight. Sit with your back pressed flat into the back pad.\n\n
+Pull the handles together, engaging your chest muscles so they do the majority of the work, not your arms or shoulders. \n\n
+Pause with your hands one inch apart, then release the weight slowly until your elbows are even with your shoulders. \n\n
+Repeat.\n\n
+</string>
+
+   <string name='dumbbell_shrugs'>Stand holding barbell or dumbbells with overhand or mixed grip; shoulder width or slightly wider. \n\n
+Elevate shoulders as high as possible. \n\n
+Lower and repeat.\n\n
+</string>
+
+   <string name='barbell_shrugs'>Stand holding barbell with overhand or mixed grip; shoulder width or slightly wider. \n\n
+Elevate shoulders as high as possible. \n\n
+Lower and repeat.\n\n
+</string>
+
+   <string name='reverse_pec_fly'>Sit in machine with chest against pad. \n\n
+Grasp parallel handles with thumbs up at shoulder height. \n\n
+Slightly bend elbows and internally rotate shoulders so elbows are also at height of shoulders. \n\n
+Pull levers apart and to rear until elbows are just behind back. \n\n
+Repeat. \n\n
+</string>
+
+   <string name='dumbbell_hammer_curls'>Position two dumbbells to sides, palms facing in, arms straight.\n\n
+With elbows to sides, raise one dumbbell until forearm is vertical and thumb faces shoulder. \n\n
+Lower to original position and repeat with alternative arm.\n\n
+</string>
+
+   <string name='reverse_cable_curls'>Stand upright at a pulley with feet shoulder width apart. \n\n
+Grasp the bar with your arms extended downward, palms down, and hands shoulder width apart. \n\n
+Using just the forearms, exhale as you bend your arms completely to raise the bar until it is chest high. \n\n
+Contract the muscle and hold for a moment. \n\n
+Inhale as you lower the bar completely back to the starting position. \n\n
+Repeat\n\n
+</string>
+
+   <string name='front_raises'>Grasp dumbbells in both hands. \n\n
+Position dumbbells in front of upper legs with elbows straight or slightly bent. \n\n
+Raise dumbbells forward and upward with until upper arms are above horizontal. \n\n
+Lower and repeat. \n\n
+</string>
+
+   <string name='overhead_press'>Position dumbbells to each side of shoulders with elbows below wrists. \n\n
+Press dumbbells upward until arms are extended overhead. \n\n
+Lower to sides of shoulders and repeat.\n\n
+</string>
+
+   <string name='barbbell_overhead_press'>Hold barbell in arms. \n\n
+Press barbell upward until arms are extended overhead. \n\n
+Lower to shoulder level and repeat.\n\n
+</string>
+
+   <string name='lateral_raises'>Grasp dumbbells in each hand. Stand straight with dumbbells by your sides and palms facing the body.\n\n
+Lift the dumbbells to your side with a slight bend on the elbow and the hands slightly tilted forward as if pouring water in a glass. \n\n
+Lift arms until they are parallel to the floor. \n\n
+Exhale as you execute this movement and pause for a second at the top.\n\n
+Lower the dumbbells back down slowly to the starting position. Inhale. Repeat\n\n
+</string>
+
+   <string name='bent_over_lateral_raises'>Grasp dumbbells in each hand with an overhand. \n\n
+Bend knees and bend over through hips with back flat close to horizontal. Position elbows with slight bend and facing to the side. \n\n
+Raise upper arms to sides until elbows are shoulder height. \n\n
+Maintain upper arms perpendicular to torso and fixed elbow position (10° to 30° angle) throughout exercise. \n\n
+Maintain height of elbows above wrists. \n\n
+Lower and repeat. \n\n
+</string>
+
+   <string name='rear_delt_fly'>Stand facing twin pulley.\n\n
+Cables should be positioned close together and at shoulder height.\n\n
+Stand with feet staggered. Point elbows outward with arms straight or slightly bent.\n\n
+Step back away from machine so cable is taut.\n\n
+Grasp stirrup cable attachment in each hand.\n\n
+Pull stirrups out to sides, maintaining stiff elbow position throughout exercise. \n\n
+Return to original position and repeat. \n\n
+</string>
+
+   <string name='dumbbell_arm_curl'>Position dumbbells to sides of body, palms facing out, arms straight.\n\n
+With elbows to sides, raise one dumbbell and rotate forearm until forearm is vertical and palm faces shoulder. \n\n
+Lower to original position and repeat with opposite arm. \n\n
+Continue to alternate between sides.\n\n
+</string>
+
+   <string name='barbell_biceps_curl'>Grasp bar with shoulder width under hand grip. \n\n
+With elbows to side, raise bar until forearms are vertical. \n\n
+Lower until arms are fully extended. \n\n
+Repeat\n\n
+</string>
+
+   <string name='supination_curl'>Sit on an incline bench\n\n
+Hold the dumbbells down at your sides, with your palms facing in towards your legs. \n\n
+As you raise the dumbbells, turn your arms so that your thumbs rotate out away from your body. \n\n
+</string>
+
+   <string name='preacher_curls'>Grasp dumbbell and sit on preacher bench. \n\n
+With arm bent and palm facing shoulder, place back of arm down on pad. \n\n
+Lower dumbbell until arm is fully extended. \n\n
+Raise dumbbell until forearm is vertical. \n\n
+Repeat. Continue with opposite arm. \n\n
+</string>
+
+   <string name='reverse_cable_curls'>Stand upright at a pulley with feet shoulder width apart. \n\n
+Grasp the bar with your arms extended downward, palms down, and hands shoulder width apart. \n\n
+Using just the forearms, exhale as you bend your arms completely to raise the bar until it is chest high. \n\n
+Contract the muscle and hold for a moment. \n\n
+Inhale as you lower the bar completely back to the starting position. \n\n
+Repeat\n\n
+</string>
+
+   <string name='cable_triceps_extension'>Face high pulley and grasp cable attachment with overhand narrow grip. \n\n
+Position elbows to side. \n\n
+Extend arms to front of body \n\n
+Return until forearm is close to upper arm. \n\n
+Repeat\n\n
+</string>
+
+   <string name='dumbbell_tricep_kickback'>Stand with a hip width stance. \n\n
+Grasp dumbbell. \n\n
+Position upper arm parallel to floor and elbow at 90 degrees.\n\n
+Extend arm until it is straight. \n\n
+Repeat. Continue with opposite arm. \n\n
+</string>
+
+   <string name='tricep_cable_pushdown'>Begin by standing in front of a cable pulley. \n\n
+Grasp pulley and grasp cable attachment with overhand narrow grip.\n\n
+Push elbows to side\n\n
+Extend arms down.\n\n
+Return until forearm is close to upper arm. \n\n
+Repeat\n\n
+</string>       
+   
+   <string name='cable_kickbacks'>Begin by standing in front of a cable pulley. Adjust cables at the level of your hand. \n\n
+Bend your body bent forward so that it is almost parallel with the ground. \n\n
+Grasp a loop handle attached to the low pulley with your right hand and press your right arm against your side with your elbows bent at 90-degree angles. \n\n
+With your palm facing your body, raise the handle by straightening your arm backwards until it is parallel with the floor. Then, reverse direction and return the weight back to the starting position. \n\n
+After finishing the desired number of repetitions, repeat the process on your left.\n\n
+</string>
+
+   <string name='close_grip_bench_press'>Lie down on bench.\n\n
+Hold barbell with a grip lesser than shoulder width.\n\n
+Press barbell up with elbows to sides until arms are extended. \n\n
+Lower arms till chest level. \n\n
+Repeat. \n\n
+</string>
+
+   <string name='push_ups'>Lie on the floor, facing the floor, hands slightly wider than shoulder width. \n\n
+Bend knees slightly and raise body up off floor by extending  arms keeping the body straight. Keep feet on toes with a hip width distance.\n\n
+Keeping body straight, lower body to floor by bending the arms. \n\n
+Push body up until arms are extended. \n\n
+Repeat. \n\n
+</string>
+
+   <string name='decline_bench_press'>Sit down on decline bench with feet under leg brace and dumbbells resting on thigh. \n\n
+Lie back with dumbbells. \n\n
+Position dumbbells to sides of chest with bent arm under each dumbbell. \n\n
+Press dumbbells up with elbows to sides until arms are extended. \n\n
+Lower weight to sides of chest until slight stretch is felt in chest or shoulder. \n\n
+Repeat. \n\n
+</string>
+
+   <string name='flat_bench_chest_press'>Sit down on bench.\n\n
+Then lie down holding dumbbells in both arms.\n\n
+Position arms with dumbbells to sides of chest with bent arm under each dumbbell. \n\n
+Press dumbbells up with elbows to sides until arms are extended. \n\n
+Lower weight to sides of upper chest until slight stretch is felt in chest or shoulder. \n\n
+Repeat. \n\n
+Dumbbells should follow slight arch pattern, above upper arm between elbow and chest at bottom, traveling inward over each shoulder at top. \n\n
+</string>
+
+   <string name='incline_bench_press'>Lie back on an incline bench with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.\n\n
+By using your thighs to help you get the dumbbells up, clean the dumbbells one arm at a time so that you can hold them at shoulder width. \n\n
+Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position.\n\n
+Bring down the weights slowly to your side as you breathe out. Keep full control of the dumbbells at all times.\n\n
+As you breathe out, push the dumbbells up using your pectoral muscles. \n\n
+Lock your arms in the contracted position, hold for a second and then start coming down slowly (it should take at least twice as long to go down than to come up).\n\n
+Repeat .\n\n
+When you are done, place the dumbbells back in your thighs and then on the floor. This is the safest manner to dispose of the dumbbells.\n\n
+</string>
+
+   <string name='cable_cross_over'>Stand in between the cable machine grasping the handles attached to the cables of the overhead pulleys\n\n
+Position yourself so that you are balanced ahead of the middle point between the 2 pulleys. \n\n
+Reach your arms out to each side of your body\n\n
+Crunch forward from your midsection, contracting with your pecs as you bring your hands forward as if you were hugging \n\n
+When your hands come together, make one cross the over as you contract.\n\n
+Repeat\n\n
+</string>
+
+   <string name='pull_ups_chin_ups'>Set yourself below the bar you intend to use to pull your body up.\n\n
+A standard pull up bar will usually be at a height that requires you to jump up and grasp the bar. \n\n
+Position your hands on the grips of the machine, grasp the bar and immediately move into the upward position.\n\n
+Pull yourself up until your chin is about level or just above the line of your hands on the bar\n\n
+Lower yourself down to full stretch and repeat the movement without touching the floor. \n\n
+</string>
+
+   <string name='clean_and_press'>Stand over a barbell with your toes just under the bar. \n\n
+(stage 1: deadlift) Squat down to grasp the bar. Keeping your arms extended, lift the bar by standing up – extending your hips and knees. Hold the bar close to your body and pull your shoulders back at the top of the movement.\n\n
+(stage 2:clean) Grab the barbell and dip your knees as if you were about to jump. Reverse the motion and shrug your shoulders. Pull the bar up and rise onto your toes. As the bar approaches chest height, bend your knees and swing your elbows forward to catch the bar under your chin.\n\n
+(stage 3: press) Hold the barbell in front of your chest in the crooks of your arms or your fingers. Bend at the knees slightly and then explode the bar upwards, powering into a split stance – one foot forward and one foot a metre back for greater stability.\n\n
+Begin with the deadlift (stage one). Move into the clean (stage two) by pulling the bar to your shoulders and ‘catching\' it. Squat back up to standing and perform a press (stage three). Return the bar to your shoulders and then lower it back to the floor.\n\n
+</string>
+
+   <string name='crunches'>Lie down on the floor on your back and bend your knees, placing your arms across your chest.\n\n
+Pull your belly button towards your spine, and flatten your lower back against the floor. \n\n
+Slowly contract your abdominals, bringing your shoulder blades about one or two inches off the floor.\n\n
+Exhale as you come up and keep your neck straight, chin up.\n\n
+Slowly lower back down, but don\'t relax all the way.\n\n
+</string>
+
+   <string name='reverse_crunches'>Lie on the floor or a mat on your back, with knees bent and hands behind head or at the side.\n\n
+Lift legs and bend knees to 90 degrees. \n\n
+Keep a space between your chin and chest (looking diagonal towards the ceiling). \n\n
+Pull knees in toward chest and hold for 2 seconds\n\n
+Control with your abs. Don\'t swing your legs.\n\n
+</string>
+
+   <string name='oblique_crunches'>Lie on your back, with your hand supporting your head, elbow pointing forward.\n\n
+Bend your knees and keep your feet on the floor\n\n
+Inhale and slowly contract your lower abs, bringing your right knee up towards your chest, whilst lifting your upper-body, focusing on taking your left elbow to your right knee.\n\n
+Exhale and slowly go back to the starting position, knees turned out (feet off the floor), shoulders lowered back to the floor. \n\n
+Repeat the other side.\n\n
+</string>
+
+   <string name='hanging_oblique_crunches'>Hanging from a bar, begin with your legs stretched down so that your whole body is aligned.  \n\n
+Using your obliques, raise your knees to hortizonal with the ground.  \n\n
+As you bring your knees up twist slightly and draw your knees into your side.  \n\n
+Do not all your body to swing during this movement.  \n\n
+In a controlled manner, return your legs back to a straight down position.  \n\n
+Then repeat on the other side.\n\n
+If grip becomes a problem with this exercise, consider using straps to help you hold onto the bar.\n\n
+</string>
+
+   <string name='plank'>Lie face down on mat resting on the forearms, palms flat on the floor. \n\n
+Push off the floor, raising up onto toes and resting on the elbows. \n\n
+Keep your back flat, in a straight line from head to heels. \n\n
+Tilt your pelvis and contract your abdominals to prevent your rear end from sticking up in the air or sagging in the middle. \n\n
+Hold for 20 to 60 seconds, lower and repeat for 3-5 reps. \n\n
+</string>
+
+   <string name='incline_bench_leg_raises'>Lie supine on incline bench with torso elevated. Grasp feet hooks or sides of board for support. \n\n
+Raise legs by flexing hips and knees until hips are completely flexed. Return until hips and knees are extended. Repeat. \n\n
+</string>
+
+   <string name='dumbbell_tricep_extension'>Hold one/two dumbbells overhead with both hands in a heart shaped grip. \n\n
+Keep the elbows overhead and bend the forearm behind upper arm by flexing the elbows. Keep wrists closer together to keep elbows from pointing out too much\n\n
+Flex wrists at bottom to avoid hitting dumbbell on back of neck. \n\n
+Raise dumbbell overhead by extending elbows and hyperextending wrists. \n\n
+Repeat. \n\n
+</string>
+
+   <string name='stiff_leg_deadlift'>Start with the bar elevated in a power rack, and lift it from the pins. \n\n
+Stand with shoulder width or narrower stance with feet flat beneath bar. \n\n
+Grasp barbell with shoulder width overhand or mixed grip, shoulder width or slightly wider. \n\n
+Bend knees and bend over with lower back straight. \n\n
+Lift weight to standing position.\n\n
+\n
+When you\'re as low as you can go, lift the bar again by pushing your hips forward. \n\n
+Your knees should remain straight throughout the entire movement.\n\n
+Pull shoulders back slightly if rounded.\n\n
+Repeat.\n\n
+</string>
+
+   <string name='conventional_dead_lift'>Stand with your feet shoulder-width apart \n\n
+Start with your knees bent and hips pushed back, then straighten both as you lift the bar from the floor. \n\n
+Descend toward the floor by pushing your hips back while keeping your back straight. \n\n
+When you\'re as low as you can go, lift the bar again by pushing your hips forward. \n\n
+</string>       
+   
+   <string name='tricep_dips'>Sit on the inside of a bench and place hands on edge of bench. Place your heels on another bench in front parallel to the first so that legs are straight. Keep arms straight.\n\n
+Lower body from the bench by bending arms until slight stretch is felt in chest or shoulder, or rear end touches floor. \n\n
+Raise body and repeat. \n\n
+</string>
+
+   <string name='cable_overhead_press'>Stand in front of machine. Stand directly between both cable pulleys. \n\n
+Grasp cables in both hands and position at upper chest height. \n\n
+Press cable bar upward until arms are extended overhead. \n\n
+Return to upper chest and repeat. \n\n
+</string>
+
+   <string name='cable_front_raises'>Stand in front of machine with low double pulleys behind. \n\n
+Grasp cables, one in each hand. \n\n
+Stand away from pulley with arms at side slightly back. Keep elbows slightly bent. \n\n
+Raise one hand forward and upward until upper arm is at shoulder level. \n\n
+Lower and repeat with opposite arm alternating between arms. \n\n
+</string>
+
+   <string name='cable_lateral_raises'>Stand in front of machine with low double pulleys behind. \n\n
+Grasp cables, one in each hand. \n\n
+Stand away from pulley with arms at side slightly back. Keep elbows slightly bent. \n\n
+Raise one hand to side away from low pulley until elbow is shoulder height.\n\n
+Lower and repeat with opposite arm alternating between arms. \n\n
+</string>  
+
+   <string name='burpees'>Do the push-ups: Lie on the floor, facing the floor, hands slightly wider than shoulder width.  \n\n
+Bend knees slightly and raise body up off floor by extending  arms keeping the body straight. Keep feet on toes with a hip width distance. \n\n
+Keeping body straight, lower body to floor by bending the arms.  \n\n
+Push body up until arms are extended.  \n\n
+Do the jump-squats: Come to a squat position and do jump squats. \n\n
+Alternate between push-ups and jump-squats. \n\n
+</string>
+   
+   <string name='clap_pushups'>Start in a push-up position. \n\n
+Go down deep with the push-ups and using the chest muscles push yourself such that the hands come off air. \n\n
+Clap in mid air and land in push-up position. Repeat. \n\n
+</string>   
+
+    <string name='step_up_and_squat'>Arrange a step board such that thigh becomes parallel to  floor when you place the foot on it. \n\n
+Step up with one leg and get in a squat position. \n\n
+Step down and repeat wth other leg.  \n\n
+</string>   
+   
+   <string name='mountain_climber'>Start in a pushup position. \n\n
+Bend your knees and step with alternate foot in between both hands. \n\n
+Straighten out the foot. Repeat as many as you can. (approx 30-50)  \n\n
+</string> 
+
+   <string name='duck_walk'>Stand with feet hip width apart. \n\n
+Bend your hip and knees and rotate the limb from outside in. \n\n
+Straighten your body. Repeat  \n\n
+</string> 
+   
+   <string name='inchworm_walk'>Stand upright with hip width distance. \n\n
+Bend from the hip and bring your hands ahead of toes. \n\n
+Walk with your hands and come to a pushup position. \n\n
+Straighten up and repeat \n\n
+</string> 
+
+      <string name='frog_jumps'>Stand at a hip width distance. \n\n
+Squat to below thigh parallel to floor level and jump forward \n\n
+Land in squat position and repeat. \n\n
+</string> 
+   
+      <string name='farmers_walk'>Hold dumbbells in your arms.  \n\n
+Walk on toes to as much distance as possible \n\n
+</string>    
+   
+      <string name='spiderman_walk'>Start in a pushup position. \n\n
+Bring one hand forward and the same thigh ahead towards the side of body with the thigh as close to the floor as possible \n\n
+Continue to move forward with the opposite side. \n\n
+</string>       
+   
+      <string name='pull_ups_with_speed'>Hold a shoulder width distance and perform pullups with speed. \n\n
+</string>          
+   
+      <string name='skipping_with_speed'>Hold a skipping rope. \n\n
+Swing it from back to front and jump in air to pass over it. \n\n
+Do as many as you can. (Approx 50-100) \n\n
+</string>
+
+      <string name='squates_with_figure_of_8'>Start in a squat position. \n\n
+Hold a medicine ball in that position. \n\n
+Move the medicine ball in a figure of 8 position. \n\n
+</string>             
+   
+      <string name='step_ups_with_lateral_press'>Lift arms until they are parallel to the floor.  \n\n
+Stand in front of a step board. Hold dumbells to side of body with palms facing inside. \n\n
+Climb on the stepboard and simultaneously lift the dumbbells to your side with a slight bend on the elbow and the hands slightly tilted forward. \n\n
+Lower arms, step down and repeat. \n\n
+</string>
+
+      <string name='dead_lift_with_shrugs'>Do the deadlift: Graspdumbbell with shoulder width shoulder width.  \n\n
+Bend knees and bend over with lower back straight.  \n\n
+Come back to standing position. \n\n
+Do the shrugs: Push your hip forward and simultaneously shrug with the dumbells. \n\n
+Lower the weight and repeat. \n\n
+</string>      
+   
+   <string name='squats_with_overhead_press'>Stand at slightly wider than hip distance. Position dumbbells to each side of shoulders with elbows below wrists.  \n\n
+Do a squat: Squat down till the thighs are parallel to floor holding dumbells in same position. \n\n
+Stand up and simultaneously press dumbbells upward until arms are extended overhead.  \n\n
+Lower dumbells and repeat \n\n
+</string>      
+
+   <string name='lunges_with_bicep_curl'>Step forward with the front thigh parallel to floor in a lunge position. Position dumbbells to sides of body, palms facing out, arms straight. \n\n
+Push back up through the heel on the forward foot and simultaneously do the arm curl. \n\n
+Arm curl: With elbows to sides, raise one dumbbell and rotate forearm until forearm is vertical and palm faces shoulder.  \n\n
+Lower dumbbells and repeat. \n\n
+</string>      
+   
+   <string name='standing_calf_raises_with_reverse_curls'>Stand with the forefoot on the stepboard. Hold dumbells by the side of the body with palms facing behind. \n\n
+Push yourself up and simultaneously bend the elbows \n\n
+</string>  
+   
+   <string name='bent_over_barbell_rowing_with_dumbbell_kick_backs'>Hold dumbells in your hand. Bend forward at your hip to bring the upper body parallel to the floor. \n\n
+Pull the dumbells upwards in a straight line.  \n\n
+At the end or shoulder range, straighten the elbows and push the dumbells behind. \n\n
+Lower the dumbeell and repeat. \n\n
+</string>  
+       
+   <string name='decline_bench_press_with_crunches'>Lie down on a decline bench. Hold the dumbells with palms facing forward.  \n\n
+Push the weights upward and simultaneously crunch your trunk \n\n
+</string>  
+   
+   <string name='incline_bench_press_with_leg_raises'>Lie down on a incline bench. Hold the dumbells with palms facing forward.  \n\n
+Push the weights upward and simultaneously bend at your hips to raise your feet off the floor. \n\n
+</string>  
+
+   <string name='walk_jog'> Walk / Jog for 30 - 45 Mins
+</string>  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+        
+    
+</resources>    

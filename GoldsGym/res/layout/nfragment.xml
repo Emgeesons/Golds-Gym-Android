@@ -1,0 +1,227 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbars="none">
+
+<LinearLayout 
+    android:id="@+id/nutritionist_parent_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+>
+
+        <!-- WELCOME / GET STARTED CARD -->
+	<LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:paddingTop="@dimen/body_padding"
+	    android:paddingLeft="@dimen/border_padding"
+	    android:paddingBottom="@dimen/body_padding"
+	    android:paddingRight="@dimen/border_padding"
+	    android:background="@drawable/welcome_bg"
+	    android:layout_marginTop="@dimen/title_padding"
+	    android:id="@+id/nutrionist_welcome_layout"
+	>    
+		<ImageView 
+		        android:id="@+id/get_started_image"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"        
+		        android:src="@drawable/welcome_icon"
+		        android:layout_gravity="center_horizontal"
+		        android:contentDescription="@string/get_started_image" />
+		
+		<TextView
+		    	android:id="@+id/get_started_text"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:paddingLeft="@dimen/activity_vertical_margin"
+		        android:paddingTop = "@dimen/cell_padding"
+		        android:paddingBottom = "@dimen/cell_padding"
+		        android:layout_gravity="center_horizontal"
+		        android:gravity="center_horizontal"
+		        android:text="@string/get_started_label" />
+		
+		 
+		 <ImageView 
+			        android:id="@+id/get_started_button"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"   
+		            android:layout_gravity="center_horizontal"
+			        android:paddingTop = "@dimen/cell_padding"
+			        android:paddingBottom = "@dimen/cell_padding"
+			        android:paddingLeft="@dimen/cell_padding"
+			        android:paddingRight="@dimen/cell_padding"     
+			        android:src="@drawable/get_started"
+			        android:contentDescription="@string/get_started_button"
+			        android:clickable="true" />
+		 
+		 <ImageView 
+			        android:id="@+id/reset_stats_button"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"   
+		            android:layout_gravity="center_horizontal"
+			        android:paddingBottom = "@dimen/cell_padding"
+			        android:paddingLeft="@dimen/cell_padding"
+			        android:paddingRight="@dimen/cell_padding"     
+			        android:src="@drawable/reset_stats"
+			        android:contentDescription="@string/get_started_button"
+			        android:clickable="true"
+			        android:visibility="gone" />
+    
+	</LinearLayout>
+	<!-- END OF WELCOME / GET STARTED CARD -->
+	
+	<!--  MOTIVATION CARD -->
+    <RelativeLayout
+	    android:id="@+id/motivation_layout"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/yellow_bg"
+	    android:layout_marginTop="@dimen/title_padding" 
+    >
+    	<ImageView 
+    	    android:id="@+id/motivation_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/n_m_1"
+	        android:contentDescription="@string/motivational_image"
+	        android:layout_gravity="center_vertical"
+	        android:layout_alignParentLeft="true"
+    		android:layout_centerInParent="true"
+    	    />
+    	<ImageView 
+    	    android:id="@+id/quotes_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/quotes"
+	        android:contentDescription="@string/motivational_image"
+	        android:layout_toRightOf="@+id/motivation_image"
+	        android:paddingLeft="@dimen/small_padding"
+	        android:paddingTop="@dimen/small_padding"
+    	    />
+    	<TextView 
+    	    android:id="@+id/motivational_title"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:textStyle="bold"
+	        android:textSize="@dimen/medium_title"
+	        android:text=""
+	        android:layout_toRightOf="@+id/motivation_image"
+	        android:layout_below="@+id/quotes_image"
+	        android:paddingLeft="@dimen/small_padding"
+	        android:paddingTop="@dimen/small_padding"
+	        android:paddingBottom="@dimen/small_padding"
+	        android:paddingRight="5dp"
+    	    />
+   </RelativeLayout>  	
+	<!-- END OF MOTIVATION CARD -->
+	
+   
+   <!-- DIET CARD WEB VIEW -->
+    <WebView   android:id="@+id/diet_web_view"
+    		android:layout_width="wrap_content"
+    		android:layout_height="fill_parent"
+	    	android:background="@drawable/welcome_bg"
+	    	android:padding="@dimen/small_padding"
+	    	android:layout_marginTop="@dimen/title_padding" 
+	/>
+   <!-- END OF DIET CARD WEB VIEW -->
+   
+   <!--  GUIDELINES CARD -->     
+	<LinearLayout
+		android:id="@+id/nutritionist_guidelines_layout"    
+	    android:layout_width="fill_parent"
+	    android:layout_height="43dp"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="@dimen/title_padding"
+	    android:padding="@dimen/small_padding"
+	    android:background="@drawable/welcome_bg"
+	>
+
+	    <ImageView 
+	        android:id="@+id/guidelines_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/guidelines_icon"
+	        android:contentDescription="@string/guidelines_image"
+	 	/>
+
+	    <TextView
+	        android:id="@+id/guidelines_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/guidelines_image" 
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:textStyle="bold"
+	        android:textSize="@dimen/medium_title"
+	        android:paddingTop="5dp"
+	        />
+    </LinearLayout>
+    <!--  END OF GUIDELINES CARD -->
+    
+	<!--  DADs CARD -->
+    <LinearLayout
+		android:id="@+id/nutritionist_dads_layout"    
+	    android:layout_width="fill_parent"
+	    android:layout_height="43dp"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="@dimen/title_padding"
+	    android:padding="@dimen/small_padding"
+	    android:background="@drawable/welcome_bg"
+	>
+
+	    <ImageView 
+	        android:id="@+id/dads_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/do_n_donts_icon"
+	        android:contentDescription="@string/dads_image"
+	 	/>
+
+	    <TextView
+	        android:id="@+id/dads_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/dads_image" 
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:textStyle="bold"
+	        android:textSize="@dimen/medium_title"
+	        android:paddingTop="5dp"
+	        />
+    </LinearLayout>
+	<!-- END OF DADs CARD -->
+	
+		<!-- LOG YOUR WEIGHT CARD -->
+	 <LinearLayout
+		android:id="@+id/nutritionist_log_weight_layout"    
+	    android:layout_width="fill_parent"
+	    android:layout_height="43dp"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="@dimen/title_padding"
+	    android:padding="@dimen/small_padding"
+	    android:background="@drawable/green_background"
+	    android:clickable="true"
+	>
+
+	    <ImageView 
+	        android:id="@+id/log_weight_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"   
+	        android:src="@drawable/log_icon"
+	        android:contentDescription="@string/trainer_weight_image"
+	 	/>
+
+	    <TextView
+	        android:id="@+id/weight_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/trainer_weight_image" 
+	        android:paddingLeft="@dimen/cell_padding"
+	        android:textStyle="bold"
+	        android:textSize="@dimen/medium_title"
+	        android:paddingTop="2dp"
+	        />
+    </LinearLayout>
+</LinearLayout>
+</ScrollView>

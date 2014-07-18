@@ -1,0 +1,907 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/cell_padding"
+    android:orientation="vertical" >
+    
+    
+    <!-- BLOOD PRESSURE - HYPERTENSION CARD -->
+  	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@drawable/welcome_bg"
+	    android:id="@+id/bp_hypertension_layout"
+	    android:layout_marginTop="@dimen/title_padding" >
+ 
+	    <TextView
+	        android:id="@+id/bp_hypertension_title"
+	        android:textSize="@dimen/big_title"
+	        android:textStyle="bold"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/bp_hypertension_title"
+	        android:paddingTop="@dimen/title_padding"
+	        android:paddingBottom="@dimen/title_padding"     
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <TextView
+	        android:id="@+id/bp_hypertension_dos_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/dos_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_13"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/bp_hypertension_dos_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/bp_hypertension_dos"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	   <TextView
+	        android:id="@+id/bp_hypertension_donts_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/donts_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/mini_padding"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_14"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/bp_hypertension_donts_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/bp_hypertension_donts"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+
+	</LinearLayout>
+    <!-- END OF BLOOD PRESSURE - HYPERTENSION CARD -->
+    
+    <!-- BLOOD PRESSURE - HYPOTENSION CARD -->
+  	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@drawable/welcome_bg"
+	    android:id="@+id/bp_hypotension_layout"
+	    android:layout_marginTop="@dimen/title_padding" >
+ 
+	    <TextView
+	        android:id="@+id/bp_hypotension_title"
+	        android:textSize="@dimen/big_title"
+	        android:textStyle="bold"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/bp_hypotension_title"
+	        android:paddingTop="@dimen/title_padding"
+	        android:paddingBottom="@dimen/title_padding"     
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <TextView
+	        android:id="@+id/bp_hypotension_dos_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/dos_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_11"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/bp_hypotension_dos_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/bp_hypotension_dos"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	   <TextView
+	        android:id="@+id/bp_hypotension_donts_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/donts_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/mini_padding"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_12"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/bp_hypotension_donts_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/bp_hypotension_donts"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+
+	</LinearLayout>
+    <!-- END OF BLOOD PRESSURE - HYPOTENSION CARD -->
+    
+   <!-- CHOLESTEROL CARD -->
+  	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@drawable/welcome_bg"
+	    android:id="@+id/cholesterol_layout"
+	    android:layout_marginTop="@dimen/title_padding" >
+ 
+	    <TextView
+	        android:id="@+id/cholesterol_title"
+	        android:textSize="@dimen/big_title"
+	        android:textStyle="bold"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/cholesterol_title"
+	        android:paddingTop="@dimen/title_padding"
+	        android:paddingBottom="@dimen/title_padding"     
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <TextView
+	        android:id="@+id/cholesterol_dos_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/dos_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_9"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/cholesterol_dos_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/cholesterol_dos"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	   <TextView
+	        android:id="@+id/cholesterol_donts_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/donts_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/mini_padding"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_10"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/cholesterol_donts_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/cholesterol_donts"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+
+	</LinearLayout>
+    <!-- END OF CHOLESTEROL CARD -->
+    
+    <!-- DIABETES CARD -->
+  	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@drawable/welcome_bg"
+	    android:id="@+id/diabetes_layout"
+	    android:layout_marginTop="@dimen/title_padding" >
+ 
+	    <TextView
+	        android:id="@+id/diabetes_title"
+	        android:textSize="@dimen/big_title"
+	        android:textStyle="bold"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/diabetes_title"
+	        android:paddingTop="@dimen/title_padding"
+	        android:paddingBottom="@dimen/title_padding"     
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <TextView
+	        android:id="@+id/diabetes_dos_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/dos_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_7"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/diabetes_dos_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/diabetes_dos"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	   <TextView
+	        android:id="@+id/diabetes_donts_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/donts_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/mini_padding"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_8"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/diabetes_donts_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/diabetes_donts"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+
+	</LinearLayout>
+    <!-- END OF DIABETES CARD -->
+    
+   <!-- PCOS CARD -->
+  	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@drawable/welcome_bg"
+	    android:id="@+id/pcos_layout"
+	    android:layout_marginTop="@dimen/title_padding" >
+ 
+	    <TextView
+	        android:id="@+id/pcos_title"
+	        android:textSize="@dimen/big_title"
+	        android:textStyle="bold"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/pcos_title"
+	        android:paddingTop="@dimen/title_padding"
+	        android:paddingBottom="@dimen/title_padding"     
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <TextView
+	        android:id="@+id/pcos_dos_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/dos_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_5"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/pcos_dos_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/pcos_dos"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	   <TextView
+	        android:id="@+id/pcos_donts_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/donts_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/mini_padding"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_6"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/pcos_donts_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/pcos_donts"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+
+	</LinearLayout>
+    <!-- END OF PCOS CARD -->
+    
+    
+    <!-- THYROID CARD -->
+  	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@drawable/welcome_bg"
+	    android:id="@+id/thyroid_layout"
+	    android:layout_marginTop="@dimen/title_padding" >
+ 
+	    <TextView
+	        android:id="@+id/thyroid_title"
+	        android:textSize="@dimen/big_title"
+	        android:textStyle="bold"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/thyroid_title"
+	        android:paddingTop="@dimen/title_padding"
+	        android:paddingBottom="@dimen/title_padding"     
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <TextView
+	        android:id="@+id/thyroid_dos_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/dos_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_3"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/thyroid_dos_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/thyroid_dos"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	   <TextView
+	        android:id="@+id/thyroid_donts_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/donts_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/mini_padding"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_4"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/thyroid_donts_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/thyroid_donts"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+
+	</LinearLayout>
+    <!-- END OF THYROID CARD -->
+    
+    
+    
+    <!-- PREGNANCY CARD -->
+  	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@drawable/welcome_bg"
+	    android:id="@+id/pregnancy_layout"
+	    android:layout_marginTop="@dimen/title_padding" >
+ 
+	    <TextView
+	        android:id="@+id/pregnancy_title"
+	        android:textSize="@dimen/big_title"
+	        android:textStyle="bold"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/pregnancy_title"
+	        android:paddingTop="@dimen/title_padding"
+	        android:paddingBottom="@dimen/title_padding"     
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <TextView
+	        android:id="@+id/pregnancy_dos_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/dos_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_1"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/pregnancy_dos_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/pregnancy_dos"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	   <TextView
+	        android:id="@+id/pregnancy_donts_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/donts_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/mini_padding"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_2"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/pregnancy_donts_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/pregnancy_donts"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+
+	</LinearLayout>
+    <!-- END OF PREGNANCY CARD -->
+    
+    <!-- SPONDYLITIS CARD -->
+  	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@drawable/welcome_bg"
+	    android:id="@+id/spondylitis_layout"
+	    android:layout_marginTop="@dimen/title_padding" >
+ 
+	    <TextView
+	        android:id="@+id/lspondylitis_title"
+	        android:textSize="@dimen/big_title"
+	        android:textStyle="bold"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/spondylitis_title"
+	        android:paddingTop="@dimen/title_padding"
+	        android:paddingBottom="@dimen/title_padding"     
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <TextView
+	        android:id="@+id/spondylitis_dos_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/dos_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_21"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/spondylitis_dos_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/spondylitis_dos"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	   <TextView
+	        android:id="@+id/spondylitis_donts_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/donts_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/mini_padding"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_22"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/spondylitis_donts_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/spondylitis_donts"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+
+	</LinearLayout>
+    <!-- END OF SPONDYLITIS -->
+    
+    <!-- LOWER BACK PAIN CARD -->
+  	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@drawable/welcome_bg"
+	    android:id="@+id/lower_back_pain_layout"
+	    android:layout_marginTop="@dimen/title_padding" >
+ 
+	    <TextView
+	        android:id="@+id/lower_back_pain_title"
+	        android:textSize="@dimen/big_title"
+	        android:textStyle="bold"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/lower_back_pain_title"
+	        android:paddingTop="@dimen/title_padding"
+	        android:paddingBottom="@dimen/title_padding"     
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <TextView
+	        android:id="@+id/lower_back_pain_dos_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/dos_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_19"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/lower_back_pain_dos_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/lower_back_pain_dos"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	   <TextView
+	        android:id="@+id/lower_back_pain_donts_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/donts_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/mini_padding"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_20"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/lower_back_pain_donts_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/lower_back_pain_donts"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+
+	</LinearLayout>
+    <!-- END OF LOWER BACK PAIN CARD -->
+    
+    <!-- KNEE PAIN CARD -->
+  	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@drawable/welcome_bg"
+	    android:id="@+id/knee_pain_layout"
+	    android:layout_marginTop="@dimen/title_padding" >
+ 
+	    <TextView
+	        android:id="@+id/knee_pain_title"
+	        android:textSize="@dimen/big_title"
+	        android:textStyle="bold"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/knee_pain_title"
+	        android:paddingTop="@dimen/title_padding"
+	        android:paddingBottom="@dimen/title_padding"     
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <TextView
+	        android:id="@+id/knee_pain_dos_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/dos_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_17"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/knee_pain_dos_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/knee_pain_dos"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	   <TextView
+	        android:id="@+id/knee_pain_donts_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/donts_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/mini_padding"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_18"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/knee_pain_donts_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/knee_pain_donts"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+
+	</LinearLayout>
+    <!-- END OF KNEE PAIN CARD -->
+    
+     <!-- WRIST PAIN CARD -->
+  	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@drawable/welcome_bg"
+	    android:id="@+id/wrist_pain_layout"
+	    android:layout_marginTop="@dimen/title_padding" >
+ 
+	    <TextView
+	        android:id="@+id/wrist_pain_title"
+	        android:textSize="@dimen/big_title"
+	        android:textStyle="bold"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/wrist_pain_title"
+	        android:paddingTop="@dimen/title_padding"
+	        android:paddingBottom="@dimen/title_padding"     
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <TextView
+	        android:id="@+id/wrist_pain_dos_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/dos_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_15"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/wrist_pain_dos_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/wrist_pain_dos"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+	    
+	   <TextView
+	        android:id="@+id/wrist_pain_donts_title"
+	        android:textSize="@dimen/medium_title"
+	        android:textStyle="bold"
+	        android:text="@string/donts_title"
+	        android:paddingLeft="@dimen/small_padding" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="@dimen/mini_padding"
+	    />
+	    
+	    <View style="@style/horizontal_divider"
+		          android:id="@+id/about_h_divider_16"	
+		          android:padding="@dimen/small_padding"
+		          android:layout_marginLeft= "@dimen/small_padding"
+		          android:layout_marginRight= "@dimen/small_padding"
+		          android:layout_marginBottom= "@dimen/small_padding"
+		 />
+	    
+	    <TextView
+	        android:id="@+id/wrist_pain_donts_text"
+	        android:textSize="@dimen/medium_small_title"
+	        android:text="@string/wrist_pain_donts"  
+	        android:paddingLeft="@dimen/title_padding"
+	        android:paddingRight="@dimen/mini_padding"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+	    />
+
+	</LinearLayout>
+    <!-- END OF WRIST PAIN CARD -->
+    
+</LinearLayout>
+</ScrollView>

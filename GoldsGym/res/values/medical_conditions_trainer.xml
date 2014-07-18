@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- WRIST PAIN -->
+    <string name="wrist_pain_title">Wrist Pain / Injury</string>
+    <string name="wrist_pain_dos"><ol><li>If your work demands too much use of wrist the give some rest in between \n\n</li>
+	    		<li>You can do ISOMETRIC DUMBBELL HOLDS which can strengthen your forearm muscles \n\n</li>
+	    		<li>Always use true grip when you do any exercise as if you exercise with falsegrip that would give excessive compressive load at your wrist. \n\n</li>
+	    		<li>Use a wrist band for support when required while lifting weights. \n\n</li>
+	    		</ol>
+	 </string>
+	 <string name="wrist_pain_donts"><ol><li>Do not take  pain In Your Wrist \n\n</li>
+	    		<li>Never exercise or stretch to the point of pain. \n\n</li>
+	    		<li>Avoid wrist curls since it gives the excessive stress on your wrist and can lead to one of the dangerous wrist injury which is known as Capell Tunnel Syndrome. \n\n</li>
+	    		</ol>
+	 </string>
+	 <!-- END OF WRIST PAIN -->
+	 
+	 <!-- KNEE PAIN -->
+    <string name="knee_pain_title">Knee Pain</string>
+    <string name="knee_pain_dos"><ol><li>Try aqua aerobics as this will prevent joint loading and cause injury. \n\n</li>
+	    		<li>Slow walking on treadmills .  \n\n</li>
+	    		<li>Perform strength training exercises for lower body.Like a natural knee brace, stronger muscles will help compensate for weak or injured tendons, ligaments, and joints.  \n\n</li>
+	    		<li>Do warm up and stretch. Warm, flexible muscles aren\'t injured as easily.  \n\n</li>
+	    		</ol>
+	 </string>
+	 <string name="knee_pain_donts"><ol><li>Never exercise or stretch to the point of pain.  \n\n</li>
+	    		<li>Push through an acute injury \n\n</li>
+	    		<li>Bounce when you stretch \n\n</li>
+	    		<li>Rush in to a new workout \n\n</li>
+	    		<li>Skip rest days \n\n</li>
+	    		<li>Skip stretching  \n\n</li>
+	    		<li>Wear worn-out shoes, Imbalanced footwear can affect your gait and balance, which can contribute to knee and hip pain.  \n\n</li>
+	    		<li>Too much rest can weaken your muscles, which can worsen joint pain. Find an exercise program that is safe for your knees and stick with it. \n\n</li>
+	    		<li>Don\'t exercise on hard surfaces and avoid high impact exercises like aerobics or kickboxing.  \n\n</li>
+	    		</ol>
+	 </string>
+	 <!-- END OF KNEE PAIN -->
+	 
+	  <!-- LOWER BACK PAIN -->
+    <string name="lower_back_pain_title">Lower Back Pain</string>
+    <string name="lower_back_pain_dos"><ol><li>Perform  back stretches to calm low-back spasms in the mornings and evenings. \n\n</li>
+	    		<li>Exercise in a pain-free zone. Don\'t work through the pain.If it hurts to bend backward, don\'t bend. Pressing into a painful position can cause further tissue damage and aggravate existing damage.  \n\n</li>
+	    		<li>Straighten up. Slumping and slouching is often a culprit in back pain symptoms, The pelvis can tilt to stabilize additional weight on the skeletal system, causing lower-back muscles to tighten.If you tend to slouch, practice good posture.  \n\n</li>
+	    		<li>Use proper biomechanics when lifting.Bend from the knees and hip to lift any object off the floor.  \n\n</li>
+	    		<li>Wear shorter-heeled shoes. Wearing high heels may also contribute to an unstable postural alignment  \n\n</li>
+	    		</ol>
+	 </string>
+	 <string name="lower_back_pain_donts"><ol><li>Do not just take a long bed rest it will aggravate the back pain.  \n\n</li>
+	    		<li>Don\'t skip your warm-up. Many back pain issues occur when we suddenly put pressure on the spine without warming up.Before attempting activities such as resistance exercises or working in the garden, perform some simple stretches. \n\n</li>
+	    		<li>Don\'t lift heavy objects or practice high-impact moves.Don\'t lift weights overhead or on your shoulders. \n\n</li>
+	    		<li>Rush in to a new workout \n\n</li>
+	    		<li>Don\'t ignore the hurt and continue with exercise or it may get worse. \n\n</li>
+	    		</ol>
+	 </string>
+	 <!-- END OF LOWER BACK PAIN -->
+	 
+	<!-- SPONDYLITIS -->
+    <string name="spondylitis_title">Spondylitis</string>
+    <string name="spondylitis_dos"><ol><li>In case of neck pain, always wear cervical collar, it will give you huge relief from neck pain. \n\n</li>
+        		<li>Go for regular walk and light aerobic exercises. \n\n</li>
+        		<li>Always take care when you stand up from lying down position. Do not turn one side while getting up. \n\n</li>
+        		<li>If you are facing severe pain take rest and take medication suggested by your physician. \n\n</li>
+        		<li>Do regular exercise to maintain neck strength, flexibility and range of motion. \n\n</li>
+        		<li>Wear a cervical collar during the day. \n\n</li>
+        		<li>Regularly walk or engage in low-impact aerobic activity. \n\n</li>
+        		<li>Use a seat belt when in a car and use firm collar while traveling. \n\n</li>
+        		<li>When in acute pain take rest, immobilize the neck, and take medications as directed.  \n\n</li>
+	    		</ol>
+	 </string>
+	 <string name="spondylitis_donts"><ol><li>Never sleep in comfortable mattresses and avoid using soft pillow. Instead of it, use thin and firm mattress as it will keep your body straight and reduce pain. Do not take many pillows below the neck and shoulder while sleeping. \n\n</li>
+        		<li>Never skip exercises. To treat this problem, exercises is the only way to reduce the pain. Make a routine of regular exercise. It will help you to maintain spine and neck\'s flexibility and strength. \n\n</li>
+        		<li>Do not hold head for long time in same position for long time. Always take break while working on computer, watching TV or driving \n\n</li>
+        		<li>Do not lift heavy weights on head or back. \n\n</li>
+        		<li>Avoid bad roads, if traveling by two or four wheelers. \n\n</li>
+        		<li>Do not drive for long hours; take breaks \n\n</li>
+        		<li>Avoid habit of holding the telephone on one shoulder and leaning at it for long time. \n\n</li>
+			     <li>Do not lie flat on your stomach. \n\n</li>
+			     <li>In order to turn around, do not twist your neck or the body; instead turn around by moving your feet first. \n\n</li>
+			     <li>Do not undergo spinal manipulations if you are experiencing acute pain. \n\n</li>
+			     <li>If you are suffering from severe neck pain and cervical pain, avoid doing aerobics and exercises. \n\n</li>
+			     <li>Never lift heavy weight \n\n</li>
+			     <li>Avoid lifting weight overhead. \n\n</li>
+	    		</ol>
+	 </string>
+	 <!-- END OF SPONDYLITIS -->
+	 
+	 <!-- DIABETES -->
+    <string name="diabetes_trainer_dos"><ol><li>Maintain good control over blood glucose levels. \n\n</li>
+        		<li>Check your eyes, feet and kidneys, once in a year, as they are the main organs to be affected by high blood glucose levels. \n\n</li>
+        		<li>Continue taking insulin and other medicines as prescribed by the Doctor.  \n\n</li>
+        		<li>Check your blood lipid levels and blood pressure at regular intervals.  \n\n</li>
+        		<li>Always carry sugar/sweet candy in your pocket if taking medicines for Diabetes as they may lower blood glucose levels.  \n\n</li>
+        		<li>Please check the lowering of blood glucose levels by knowing the symptoms like extreme weakness and numbness in the hands.  \n\n</li>
+        		<li>Exercise in the morning is good as it raises your body activity level and this will result in more burning of the calories throughout the day. \n\n</li>
+        		<li>Always consult your Doctor in case of any doubts regarding eating habits, exercise and medication.  \n\n</li>
+        		<li>Have protein with meals. Lean protein is great for people with diabetes because it does not raise blood sugar levels and it helps you feel satisfied.  Give up on healthy eating.   \n\n</li>
+        		<li>Eat fruits and vegetables daily. The recommendation is to eat five servings of fruits and vegetables daily. If you are not coming close to this recommendation, make sure you are eating at least some fruit and vegetables every day and then work toward the bigger goal of five servings per day. \n\n</li>
+	    		</ol>
+	 </string>
+	 <string name="diabetes_trainer_donts"><ol><li>Avoid taking tobacco and alcohol. \n\n</li>
+        		<li>Do not miss the daily dose of medicine. \n\n</li>
+        		<li>Eating sweets and taking more medicines to lower blood glucose levels should be avoided. \n\n</li>
+        		<li>Do not over exercise in such a way that there may be a sudden fall of blood glucose levels. \n\n</li>
+        		<li>Avoid overeating. \n\n</li>
+        		<li>Avoid fasting \n\n</li>
+        		<li>Do not drink soda or sweetened drinks unless you are hypoglycemic (having a low blood sugar episode.) \n\n</li>
+			     <li>Skipping meals isn\'t good for your metabolism and it can lead to overeating at the next meal. Depending on your diabetes medication, skipping meals may also cause hypoglycemia. \n\n</li>
+	    		</ol>
+	 </string>
+	 <!-- END OF DIABETES -->
+	 
+	<!-- PREGNANCY -->
+    <string name="pregnancy_trainer_dos"><ol><li>Drink plenty of fluids. If you don\'t drink enough fluids, your nausea might get worse. Keep a water bottle at your desk or in your work area and sip throughout the day. \n\n</li>
+        		<li>Eat foods rich in iron and protein. Fatigue can be a symptom of iron deficiency anemia, but adjusting your diet can help. Choose foods such as red meat, poultry, seafood, leafy green vegetables, iron-fortified whole-grain cereal and beans.\n\n</li>
+        		<li>Take short, frequent breaks. Getting up and moving around for a few minutes can reinvigorate you. Spending a few minutes with the lights off, your eyes closed and your feet up also can help you recharge. \n\n</li>
+        		<li>Cut back on activities. Scaling back can help you get more rest when your workday ends. Consider doing your shopping online or hiring someone to clean the house or take care of the yard.\n\n</li>
+        		<li>Keep up your fitness routine. Although exercise might be the last thing on your mind at the end of a long day, physical activity can help boost your energy level - especially if you sit at a desk all day. Take a walk after work or join a prenatal fitness class, as long as your health care provider says it\'s OK. \n\n</li>
+        		<li>Go to bed early. Aim for seven to nine hours of sleep every night. Resting on your side will improve blood flow to your baby and help prevent swelling. For added comfort, place pillows between your legs and under your belly. \n\n</li>
+        		<li>While Sitting on chair use a small pillow or cushion to provide extra support for your back. \n\n</li>
+        		<li>Avoid prolonged standing as it might lead to leg ,back pain or dizziness.\n\n</li>
+        		<li>Wear comfortable shoes with good arch support.\n\n</li>
+        		<li>While bending and bend at your knees, not your waist. Keep the load close to your body, lifting with your legs - not your back. Avoid twisting your body while lifting.\n\n</li>
+        		<li>If you have not exercised before pregnancy begin with as little as five minutes of physical activity a day. Build up to 10 mins,15 mins at finally reach at least 30 minutes a day.\n\n</li>
+        		<li>You exercised before pregnancy. You can probably continue to work out at the same level while you\'re pregnant - as long as you\'re feeling comfortable and your health care provider says it\'s OK.\n\n</li>
+	    		</ol>
+	 </string>
+	 <string name="pregnancy_trainer_donts"><ol><li>Avoid taking tobacco and alcohol.  \n\n</li>
+        		<li>Avoid any exercises that force you to lie flat on your back after your first trimester \n\n</li>
+        		<li>Avoid activities that pose a high risk of falling - such as downhill skiing, gymnastics, water skiing, surfing and horseback riding \n\n</li>
+        		<li>Avoid exercise at high altitude \n\n</li>
+        		<li>Stop the exercise immediately if you have \n\n
+        		    <ol><li>Dizziness\n</li>
+        		    <li>Headache\n</li>
+        		    <li>Increased shortness of breath\n</li>
+        		    <li>Chest pain\n</li>
+        		    <li>Uneven or rapid heartbeat\n</li>
+        		    <li>Uterine contractions that continue after rest\n</li>
+        		    <li>Vaginal bleeding\n</li>
+        		    <li>Fluid leaking or gushing from your vagina \n</li>
+        		    <li>Decreased fetal movement\n</li>
+        		    <li>If your signs and symptoms continue after you stop exercising, contact your health care provider.\n\n</li>
+        		 </ol></li>
+	    		</ol>
+	 </string>
+	 <!-- END OF PREGNANCY -->
+	 
+	<!-- HYPERTENSION  -->
+	<string name="hypertension_trainer_dos"><ol><li>Make physical activity a part of your lifestyle \n\n</li>
+        		<li>Be regular with your medication \n\n</li>
+        		<li>Be physically active for 30 to 60 minutes on most days of the week mostly cardio. Remember that even a little bit of activity is better than no activity at all. \n\n</li>
+        		<li>Lift light weights for 15 to 20 reps as a circuit training during weight training days. \n\n</li>
+        		<li>Choose the following more often: vegetables, fruit, low fat dairy products, food low in saturated and Trans fat and salt, whole grains and lean meat, fish and poultry. Limit fast foods, canned foods or foods that are bought prepared. \n\n</li>
+        		<li>Use less oil, ghee, butter, margarine, shortening, and salad dressings. \n\n</li>
+        		<li>If you are overweight, losing about 10 lbs (5kgs) will lower your blood pressure, and reducing your weight to within a healthy range will lower your blood pressure even more. \n\n</li>
+			     <li>Alcohol- If you drink alcohol, limit the amount to two drinks a day or less. A regular-sized bottle or can of beer, 1.5 oz. of hard liquor, or a regular sized glass of wine are all equal to a single alcoholic drink. \n\n</li>
+			     <li>Smoking- It is important to stop smoking if you have high blood pressure. Smoking increases that risk of developing heart problems and other diseases. Living and working places that are smoke free are also important.\n\n</li>
+	    		</ol>
+	 </string>
+	 
+	 <string name="hypertension_trainer_donts"><ol><li>Consume too much salt \n\n</li>
+        		<li>Stop consuming alcohol \n\n</li>
+        		<li>Spend more time in warm-ups and cool downs \n\n</li>
+        		<li>Hold your breath while lifting weights \n\n</li>
+        		<li>Grip weights tightly. \n\n</li>
+        		<li>Run or do activities which will suddenly elevate your blood pressure \n\n</li>
+        		<li>Smoke \n\n</li>
+			     <li>Stop medicines without doctor\'s advice \n\n</li>
+			     <li>Do not eat food in Hotels, Shops etc. as they contain too much oils which are very un-hygienic too. So, prefer only homely food\n\n</li>
+	    		</ol>
+	 </string>
+	 <!-- END OF HYPERTENSION -->
+	 
+</resources>

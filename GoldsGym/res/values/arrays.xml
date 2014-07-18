@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+        <string-array name="image_ids">
+        <item>@drawable/a_icon1</item>
+        <item>@drawable/a_icon2</item>
+        <item>@drawable/a_icon3</item>
+        <item>@drawable/a_icon4</item>
+        <item>@drawable/a_icon5</item>
+        <item>@drawable/a_icon6</item>
+    </string-array>
+    
+    <!-- NUTRIONIST PAGE -->
+    <string-array name="nutrionist_quotes">
+        <item>Vitamin C is good for your skin. So, remember to eat a citrus fruit every day.</item>
+        <item>Preferably have smaller meals at regular intervals rather than large meals infrequently as this can prevent wide blood sugar fluctuations.</item>
+        <item>Do not bend or lie down immediately after your meals. This could trigger an acid-peptic disease.</item>
+        <item>Too little calories can slow down the body’s metabolism, thereby decreasing the absorption of vitamins and essential nutrients too.</item>
+        <item>If you tend to overeat always, eating salads before your main course will fill you up in advance, thereby making you eat less.</item>
+        <item>Breakfast cereals can provide just the right amounts of carbohydrates, vitamins, and minerals as we start the day.</item>
+        <item>Cutting down on high calories, salt, and alcohol can help in preventing hypercholesterolemia and high blood pressure.</item>
+        <item>A diet that is low in fat, high in fiber, and mostly vegetarian, is known to prevent many diseases, including cancer.</item>
+        <item>Eating salads when outside is not a very good idea as the raw fruits or vegetables may not have been washed properly.</item>
+        <item>Readymade foods contain preservatives, sweeteners, and colorants, which could be harmful to the body.</item>
+        <item>Junk foods emphasize more on taste rather than nutrition. Hence, they are not very good for health and often give rise to problems.</item>
+        <item>Binging on junk food is one of the main reasons for hyperacidity because junk food is usually high in its fat and spice content.</item>
+        <item>Intake of fatty and sweet food items can lead to obesity. So, think twice before you give in to your temptations.</item>
+        <item>Junk food gets its wonderful taste by the lavish usage of oils, salts, and/or sugar. So, beware!</item>
+        <item>An excess of junk food can cause major health problems. Therefore, always try to stick to home-cooked meals.</item>
+        <item>Curds and buttermilk can be used as electrolytes during diarrhoea. Probiotics present in curds can facilitate faster recovery.</item>
+        <item>Omega 3 fatty acids, present in fish, walnuts, broccoli, and spinach, are anti-inflammatory and also protect the heart.</item>
+        <item>Increasing your intake of fiber in the form of fruits, vegetables, and wholegrain cereals or pulses helps to lose weight healthily.</item>
+        <item>Vitamin supplements are meant to complement your diet and not replace certain food items missing in your meals</item>
+        <item>A low calorie food item need not necessarily be low in fat. Hence, check out the nutrition labels before you purchase foodstuff</item>
+        <item>Protein supplements, if taken without a planned and balanced meal, can prove fatal to the body as excess proteins can damage the kidneys</item>
+        <item>Stress is fattening. Hence find ways to keep yourself stress-free to help your body make healthy food choices</item>
+        <item>Diabetics should eat fruits in between meals as consuming them later can increase their blood sugar levels</item>
+        <item>Calcium supplements during pregnancy and lactation ensure that there is no loss of bone density in lactating women</item>
+        <item>Eliminating dietary carbohydrates deprives the body of energy, leading to energy generation from proteins, which leads to muscle loss</item>
+        <item>Understanding food claims and food labels can help to make the right choice of healthy food. So, be a conscious customer</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    
+        <!-- TRAINER PAGE -->
+    <string-array name="trainer_quotes">
+        <item>Pain is weakness leaving the body</item>
+        <item>Being defeated is often a temporary condition. Giving up is what makes it permanent.</item>
+        <item>Failure is only a temporary change in direction to set you straight for your next success.</item>
+        <item>EAT BIG, LIFT BIG, GET BIG!</item>
+        <item>When it starts to hurt, that\'s when the set starts.</item>
+        <item>With great size comes great responsibility</item>
+        <item>Ain\'t nothing to it but to do it.</item>
+        <item>To achieve something you\'ve never had before, you must do something you\'ve never done before.</item>
+        <item>Doubt me, hate me, you\'re the inspiration I need</item>
+        <item>You are born weak and die weak, what you are in between those two periods of time is up to you</item>
+        <item>Strength Within, Pride Throughout</item>
+        <item>Winners Train, Losers Complain.</item>
+        <item>A winner never whines.</item>
+        <item>Good is not enough if better is possible.</item>
+        <item>If the bar ain\'t bending you‘re just pretending</item>
+        <item>Never say the sky\'s the limit when there are footprints on the moon.</item>
+        <item>Some people want it to happen, some wish it would happen, others make it happen.</item>
+        <item>You get out only what you put in.</item>
+        <item>If you don\'t live for something you\'ll die for nothing.</item>
+        <item>You must do what others don\'t, to achieve what others won\'t.</item>
+        <item>For every person who doubts you, tell you that you will fail, try twice as hard to prove them wrong.</item>
+        <item>I got 99 problems but a BENCH ain\'t one.</item>
+        <item>When the going gets tough the tough gets going.</item>
+        <item>If you\'re not first, you\'re last.</item>
+        <item>You can\'t flex fat so shut up and lift</item>
+        <item>Fall down seven times, get up eight.</item>
+        <item>When my body \'shouts\' STOP, my mind \'screams\' NEVER\'</item>
+        <item>If you always do what you have always done, you will always get what you have always got .</item>
+        <item>The best way to predict your future is to create it.</item>
+        <item>You don\'t drown by falling in the water; you drown by staying there.</item>
+        <item>There are so many people out there who will tell you that you can\'t. What you\'ve got to do is to turn around and say – watch me.</item>
+        <item>The more you train, the more people there are who are weaker than you</item>
+        <item>When you\'re not training, someone else is .</item>
+        <item>The pain of today is the victory of tomorrow .</item>
+        <item>If your out of breath, dizzy, can\'t remember your name, you are on the right road .</item>
+        <item>Of course its heavy, that\'s why they call it weight.</item>
+        <item>Crawling is acceptable. Falling is acceptable. Tears are acceptable. Pain is acceptable. Injury is acceptable. Quitting is unacceptable</item>
+        <item>A pint of sweat will save a gallon of blood.</item>
+        <item>Second place is just a spot for the first loser.</item>
+        <item>Just think about how you wanna look, just think about how you wanna look. Ok, up with it!</item>
+        <item>Warm up is very important before a workout. It helps your body prepare itself for exercise both mentally and physically, and reduces the chance of injury. </item>
+        <item>Drink lots of water as it helps in keeping the body fluid level intact. It also helps in losing fat. It washes away waste materials from your body. Drink at least 2-3 liters of water a day.</item>
+        <item>Set goals. Start with simple goals and then progress to longer range goals. Remember to make your goals realistic and achievable. It\'s easy to get frustrated and give up if your goals are too ambitious. </item>
+        <item>Start slowly. If you push yourself too hard at first, you may be forced to abandon your program because of pain or injury. It\'s better to start slowly and progress gradually. </item>
+        <item>Think variety. Vary your activities to keep boredom at bay. Alternate walking or biking with swimming or a low-impact aerobics class. Play with your kids. </item>
+        <item>Have fun. You\'re more likely to stick with an exercise program if you\'re having fun. If you\'re not enjoying your workouts, try something different. </item>
+        <item>Track your progress. Keep an exercise diary. Record what you did during each exercise session, how long you exercised and how you felt afterward. Recording your efforts can help you work toward your goals - and remind you that you\'re making progress. </item>
+        <item>Dress Comfortable: Dress so that you are comfortable and can move easily.</item>
+        <item>Stretch immediately following an aerobic activity. </item>
+        <item>Cool down. Take a few minutes to lower your heart rate then step out to do your regular activities. </item>
+        <item>Watch your food. Food is the main factor in keeping fit. Your food can keep you fit or unfit. </item>
+        <item>Eat more lean protein. Proteins build your body muscles. It helps in burning body fat. </item>
+        <item>Also avoid too much oil and fat. They create different irregularities in your body and also increase the fat in your body. Fat deposition is very bad for your body weight and for your heart. </item>
+        <item>Take a good multivitamin and mineral supplement along with omega-3, vitamins C and D and an anti-oxidant. </item>
+        <item>Rest is important as the body finds time to rebuild your muscles.  This is when the body gets stronger.  If you constantly push your body, you may experience symptoms of overtraining such as fatigue and even depression. </item>
+        <item>Don\'t forget to stretch your body at least once a day. When you stretch your body, it improves flexibility of your body. It also improves coordination of limbs, blood circulation in your body which is good for your body fitness. </item>
+        <item>Walking is the easiest exercise you can get. Walk as much as you can at least 30 minutes a day. Walking has many advantages like burning lower body fat, burning calories, and reduction in stress. </item>
+        <item>Training anytime of the day induces the same effect on the body. You will tire easily in the morning because your stomach\'s been empty the whole night and there will be no energy left for performance. It\'s advisable to eat something before weight training.</item>
+        <item>You can work out anytime of the day. It\'s a matter of what you prefer. Select a time that\'s most comfortable for you. But wait at least two hours after eating before working out.</item>
+        <item>The duration of cardiovascular exercise has to be short maximum 30 min for a period of three times a week. Longer duration and frequency can burn more muscle tissues.</item>
+        <item>If you eat more calories than you burn you will \'Gain Weight\' A good fitness regimen is a sensible balance between getting enough exercise and eating right.</item>
+        <item>Metabolism is the rate at which your body burns fat. Adding strength training to your aerobic workout will benefit as you will be building calorie-burning muscle which will increase your metabolism.</item>
+        <item>During longer duration protein is used along with fat as a source of energy. It is better to increase the intensity of the exercise rather than the duration. </item>
+        <item>Body fat is the true health test to assess how healthy you are. You may have the same height and weight as another person but vary on the percentage of body fat to lean muscle</item>
+        <item>Weight training along with cardiovascular exercise are both valuable for maintaining a healthy weight. Weight training helps maintain both muscle mass and decrease body fat percentage.</item>
+        <item>Eating right at the right time is very important. Your body needs certain calories to perform day-to-day functions. If you eat excess fat in your diet, you \'Gain Weight\' but if you eat less fat in your diet you will \'Lose Weight\'.</item>
+        <item>Exercise contributes to a more restful sleep and makes you more alert in your daily life. Don\'t do heavy exercise three to four hours before your bedtime.</item>
+        <item>Your body loses precious nutrients in workouts (i.e. proteins, carbohydrates, water, vitamins, minerals), thus draining out your body.  You must eat right and within half hours to avoid such situations.</item>
+        <item>Our body is made of 70% water. During workout your mid section is moving /contracting which won\'t allow a big quantity of water to stay, but you must keep sipping water through out to maintain the hydration level of the body. </item>
+        <item>Our body is an intelligent machine which always adapts to any stress it goes through. We always need to challenge it with higher intensities. This will never lead to extra muscle gain.</item>
+        <item>Abdominal exercises will help firm and tone our abdominal areas, they will not get rid of the underlying fat. You need cardio vascular exercise for that.</item>
+        <item>Building muscle mass involves two things. Using enough weight to challenge muscles beyond their normal levels of resistance and eating right.</item>
+        <item>Skipping meals means a reduction in caloric intake. There will be reduction in \'Body Weight\' but not necessarily \'Fat Loss\'.  This lowers metabolism. Our body works best with small balanced meals.</item>
+        <item>Depending on your goals it takes as little as 30 minutes, 3 times a week to shape-up. Quality of exercise, not quantity is far more effective.</item>
+        <item>You can define, tone, or build the size as per your genetic body potential, but you cannot change the genetics of your muscle physiology</item>
+        <item>Cardiovascular training done on a regular basis helps to improve your breathing capacity and makes you feel more energetic. </item>
+        <item>Cardio vascular training develops your body\'s hardest working muscle, the heart and keeps blood circulating properly.</item>
+        <item>Increase in stamina gives you more energy to meet the demands of daily life, and provides you with a reserve to meet the demands of unexpected emergencies.</item>
+        <item>The natural endorphins that your body naturally releases with mid to high cardiovascular activity helps you approach and deal with stress confidently and consciously. </item>
+        <item>Regular workouts enhances blood circulation, facilitating all of your internal organs to function at their best.  When you train, you are not only strengthening your external muscles but also the internal ones which support the vital organs.  </item>
+        <item>Weight training improves strength of muscles. Improves muscle mass and connective tissue and helps in toning and firming the muscles. </item>
+        <item>As one continues to weight train it improves the capacity to recruit the muscle fibres more efficiently. This, in turn, results in an improvement in coordination, which translates into more efficient movement patterns. </item>
+        <item>You will have a more peaceful and restful sleep after a good workout. Consequently, this makes rising in the morning much easier.</item>
+        <item>When you lift weights and gradually increase the level of resistance, your muscles produce testosterone. This gives you the energy, stamina, and aggressiveness you need to take on the world.</item>
+        <item>Regular exercise increases HDL-cholesterol (the "good" cholesterol), and decreases bad cholesterol (LDL).</item>
+        <item>Strong well co-ordinated muscles, cardio vascular endurance and good flexibility enhances your looks, drives your partner wild with desire and gives you the edge for a good performance.</item>
+        <item>Increase efficiency of blood and circulation system. Helps fighting against degenerative diseases like Type 2 (non-insulin dependent) diabetes.</item>
+        <item>Improve the likelihood of survival from a myocardial infarction (heart attack) – through improved functioning of the heart.</item>
+        <item>Improve joint flexibility. Using weights helps to fortify the joints and tissues that support them increasing the flexibility.</item>
+        <item>Exercise enhances mood levels and calms \'reacting\' impulses - naturally and instantly. It makes working with challenging people and situations much easier.</item>
+        <item>Water is a by-product of exercise. When you sweat through exercises it removes toxins and helps you feel more fresh and rejuvenated. </item>
+        <item>Exercise improves your body\'s ability to use fat for energy during physical activity which lowers your fat percentage and indirectly improves your physical appearance. </item>
+    </string-array>
+    
+    <!-- PROFILE PAGE -->
+    <string-array name="profile_parameter_array">
+        <item>Weight</item>
+        <item>Waist</item>
+        <item>SMM</item>
+        <item>PBF</item>
+        <item>WHR</item>
+        <item>BMR</item>
+        <item>Fitness</item>
+    </string-array>
+    <string-array name="profile_parameter_array_2">
+        <item>Overview</item>
+        <item>Weight</item>
+        <item>Waist</item>
+        <item>SMM</item>
+        <item>PBF</item>
+        <item>WHR</item>
+        <item>BMR</item>
+        <item>Fitness</item>
+    </string-array>
+    
+    
+</resources>

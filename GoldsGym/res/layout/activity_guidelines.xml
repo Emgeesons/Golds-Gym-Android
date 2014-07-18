@@ -1,0 +1,42 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/cell_padding"
+    android:orientation="vertical"
+    android:background="@drawable/welcome_bg" >
+ 
+    <TextView
+        android:id="@+id/guideline_title"
+        android:textSize="@dimen/big_title"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/guideline_title"
+        android:paddingTop="@dimen/title_padding"    
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+    />
+    
+    <View style="@style/horizontal_divider"
+	          android:id="@+id/about_h_divider_1"	
+	          android:padding="@dimen/title_padding"
+	          android:layout_margin= "@dimen/cell_padding"
+	 />
+    
+    <TextView
+        android:id="@+id/guideline_text"
+        android:textSize="@dimen/medium_small_title"
+        android:text=""  
+        android:paddingLeft="@dimen/title_padding"
+        android:paddingRight="@dimen/mini_padding"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+    />
+    
+
+
+</LinearLayout>
+</ScrollView>

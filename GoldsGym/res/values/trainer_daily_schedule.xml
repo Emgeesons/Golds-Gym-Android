@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rest">
+        <item>Kudos! You\'ve earned your rest for today</item>
+    </string-array>
+    <string-array name="basic_1_cardio">
+        <item>Cardio 20-30 minutes. You can choose from one of the following or do all 3. (10 mins each)</item>
+        <item>Stationary Bike</item>
+        <item></item>
+        <item>Walking Workout</item>
+        <item></item>
+        <item>Elliptical Workout</item>
+        <item></item>
+    </string-array>
+    <string-array name="basic_1_whole_body">
+        <item>15 to 20 repetitions. 1 set each. Minimum rest period between two sets</item>
+        <item>Squats</item>
+        <item></item>
+        <item>Leg Press</item>
+        <item></item>
+        <item>Leg Extension</item>
+        <item></item>
+        <item>Seated Leg Curl</item>
+        <item></item>
+        <item>Back Extension</item>
+        <item></item>
+        <item>Lat Pull Down</item>
+        <item></item>
+        <item>Chest Press</item>
+        <item></item>
+        <item>Cable Overhead Press</item>
+        <item></item>
+        <item>Dumbbell Arm Curl</item>
+        <item></item>
+        <item>Cable Triceps Extension</item>
+        <item></item>
+    </string-array>
+    <string-array name="basic_2_lower_body">
+        <item>15 repetitions. 1 to 2 sets each. 1-2 min rest period between two sets</item>
+        <item>Squats</item>
+        <item></item>
+        <item>Lunges</item>
+        <item></item>
+        <item>Leg Press</item>
+        <item></item>
+        <item>Leg Extension</item>
+        <item></item>
+        <item>Prone Leg Curl</item>
+        <item></item>
+        <item>Standing Calf Raises</item>
+        <item></item>
+        <item>Seated Calf Raises</item>
+        <item></item>
+    </string-array>
+    <string-array name="basic_2_upper_body">
+        <item>15 repetitions. 1 to 2 sets each. 1-2 min rest period between two sets</item>
+        <item>Back Extension</item>
+        <item></item>
+        <item>Lat Pull Down</item>
+        <item></item>
+        <item>Seated Row</item>
+        <item></item>
+        <item>Chest Press</item>
+        <item></item>
+        <item>Chest-Pec Fly</item>
+        <item></item>
+        <item>Dumbbell Shrugs</item>
+        <item></item>
+        <item>Reverse Pec Fly</item>
+        <item></item>
+        <item>Cable Overhead Press</item>
+        <item></item>
+        <item>Cable Front Raises</item>
+        <item></item>
+        <item>Cable Lateral Raises</item>
+        <item></item>
+        <item>Barbell Biceps Curl</item>
+        <item></item>
+        <item>Cable Triceps Extension</item>
+        <item></item>
+    </string-array>
+    <string-array name="basic_2_wed_cardio">
+        <item>Cardio and Abs. Cardio 20-30 minutes. You can choose from one of the following or do all 3. (10 mins each)</item>
+        <item>Stationary Bike</item>
+        <item></item>
+        <item>Walking Workout</item>
+        <item></item>
+        <item>Elliptical Workout</item>
+        <item></item>
+        <item>Crunches</item>
+        <item></item>
+        <item>Reverse Crunches</item>
+        <item></item>
+    </string-array>
+    <string-array name="basic_2_sun_cardio">
+        <item></item>
+        <item>Stationary Bike</item>
+        <item></item>
+        <item>Walking Workout</item>
+        <item></item>
+        <item>Elliptical Workout</item>
+        <item></item>
+    </string-array>
+    <string-array name="basic_2_nc_abs">
+        <item></item>
+        <item>Crunches</item>
+        <item></item>
+        <item>Reverse Crunches</item>
+        <item></item>
+    </string-array>
+    <string-array name="int1_lower_body">
+        <item>12 to 15 repetitions. 2 to 3 sets. 2 min rest period between two sets</item>
+        <item>Squats</item>
+        <item></item>
+		<item>Lunges</item>
+		<item></item>
+		<item>Leg Press</item>
+		<item></item>
+		<item>Leg Extension</item>
+		<item></item>
+		<item>Prone Leg Curl</item>
+		<item></item>
+		<item>Standing Calf Raises</item>
+		<item></item>
+		<item>Seated Calf Raises</item>
+		<item></item>
+    </string-array>
+    <string-array name="int1_upper_1">
+        <item>12 to 15 repetitions. 2 to 3 sets. 2 min rest period between two sets</item>
+        <item>Back Extension</item>
+        <item></item>
+		<item>Lat Pull Down</item>
+		<item></item>
+		<item>One Arm Dumbbell Row</item>
+		<item></item>
+		<item>Seated Row</item>
+		<item></item>
+		<item>Barbell Shrugs</item>
+		<item></item>
+		<item>Reverse Pec Fly</item>
+		<item></item>
+		<item>Dumbbell Arm Curl</item>
+		<item></item>
+		<item>Dumbbell Hammer Curls</item>
+		<item></item>
+		<item>Reverse Cable Curls</item>
+		<item></item>
+    </string-array>    
+      <string-array name="int1_upper_2">
+        <item>12 to 15 repetitions. 2 to 3 sets. 2 min rest period between two sets</item>
+        <item>Decline Bench Press</item>
+        <item></item>
+		<item>Flat Bench Chest Press</item>
+		<item></item>
+		<item>Incline Bench Press</item>
+		<item></item>
+		<item>Cable Cross Over</item>
+		<item></item>
+		<item>Barbell Overhead Press</item>
+		<item></item>
+		<item>Front Raises</item>
+		<item></item>
+		<item>Lateral Raises</item>
+		<item></item>
+		<item>Dumbbell Tricep Extension</item>
+		<item></item>
+		<item>Cable Kickbacks</item>
+		<item></item>
+    </string-array>  
+      <string-array name="int1_cardio_abs">
+        <item>Cardio and Abs. Cardio 45 minutes. You can choose from one of the following or do all 3. (15 mins each)</item>
+        <item>Stationary Bike</item>
+        <item></item>
+		<item>Walking Workout</item>
+		<item></item>
+		<item>Elliptical Workout</item>
+		<item></item>
+		<item>Crunches</item>
+		<item></item>
+		<item>Reverse Crunches</item>
+		<item></item>
+		<item>Oblique Crunches</item>
+		<item></item>
+    </string-array>  
+    <string-array name="int2_chest_etc">
+        <item>12 to 15 repetitions. 2 to 3 sets. 1 min rest period between two sets</item>
+        <item>Squats</item>
+        <item></item>
+		<item>Lunges</item>
+        <item></item>
+        <item>Step Ups</item>
+        <item></item>
+        <item>Stiff Leg Dead Lift</item>
+        <item></item>
+        <item>Standing Calf Raises</item>
+        <item></item>
+        <item>Seated Calf Raises</item>
+        <item></item>
+        <item>Decline Bench Press</item>
+        <item></item>
+        <item>Flat Bench Chest Press</item>
+        <item></item>
+        <item>Incline Bench Press</item>
+        <item></item>
+        <item>Cable Cross Over</item>
+        <item></item>
+        <item>Clean And Press</item>
+        <item></item>
+        <item>Lateral Raises</item>
+        <item></item>
+        <item>Bent Over Lateral Raises</item>
+        <item></item>
+        <item>Barbell Overhead Press</item>
+        <item></item>
+        <item>Dumbbell Tricep Kickback</item>
+        <item></item>
+    </string-array> 
+    <string-array name="int2_back_etc">
+        <item>12 to 15 repetitions. 2 to 3 sets. 1 min rest period between two sets</item>
+        <item>Pull Ups-Chin Ups</item>
+        <item></item>
+        <item>Conventional Dead Lift</item>
+        <item></item>
+        <item>Bent Over Barbell Row</item>
+        <item></item>
+        <item>One Arm Dumbbell Row</item>
+        <item></item>
+        <item>Lat Pull Down</item>
+        <item></item>
+        <item>Supination Curl</item>
+        <item></item>
+        <item>Preacher Curls</item>
+        <item></item>
+        <item>Seated Leg Curl</item>
+        <item></item>
+        <item>Prone Leg Curl</item>
+        <item></item>
+    </string-array>  
+    <string-array name="int2_abs">
+        <item></item>
+        <item>Crunches</item>
+        <item></item>
+        <item>Reverse Crunches</item>
+        <item></item>
+        <item>Oblique Crunches</item>
+        <item></item>
+        <item>Plank</item>
+        <item></item>
+    </string-array>
+    <string-array name="adv1_legs">
+        <item>8-12 repetitions. 2 to 5 sets. 2 min rest period between two sets</item>
+        <item>Jump Squats</item>
+        <item></item>
+        <item>Dynamic Lunges</item>
+        <item></item>
+        <item>Leg Press</item>
+        <item></item>
+        <item>Leg Extension</item>
+        <item></item>
+        <item>Stiff Leg Dead Lift</item>
+        <item></item>
+        <item>Prone Leg Curl</item>
+        <item></item>
+        <item>Standing Calf Raises</item>
+        <item></item>
+        <item>Seated Calf Raises</item>
+        <item></item>
+    </string-array>
+    <string-array name="adv1_back">
+        <item>8-12 repetitions. 2 to 5 sets. 2 min rest period between two sets</item>
+        <item>Bent Over Barbell Row</item>
+        <item></item>
+        <item>Pull Ups-Chin Ups</item>
+        <item></item>
+        <item>Cable Seated Row</item>
+        <item></item>
+        <item>Conventional Dead Lift</item>
+        <item></item>
+        <item>Bent Over Barbell Row</item>
+        <item></item>
+        <item>Dumbbell Shrugs</item>
+        <item></item>
+        <item>Rear Delt Fly</item>
+        <item></item>
+        <item>Clean And Press</item>
+        <item></item>
+    </string-array>
+      <string-array name="adv1_chest_b">
+        <item>8-12 repetitions. 2 to 5 sets. 2 min rest period between two sets</item>
+        <item>Push Ups</item>
+        <item></item>
+        <item>Decline Bench Press</item>
+        <item></item>
+        <item>Flat Bench Chest Press</item>
+        <item></item>
+        <item>Incline Bench Press</item>
+        <item></item>
+        <item>Cable Cross Over</item>
+        <item></item>
+        <item>Supination Curl</item>
+        <item></item>
+        <item>Preacher Curls</item>
+        <item></item>
+        <item>Dumbbell Hammer Curls</item>
+        <item></item>
+        <item>Reverse Cable Curls</item>
+        <item></item>
+    </string-array>
+     <string-array name="adv1_shoulder_t">
+        <item>8-12 repetitions. 2 to 5 sets. 2 min rest period between two sets</item>
+        <item>Overhead Press</item>
+        <item></item>
+        <item>Front Raises</item>
+        <item></item>
+        <item>Lateral Raises</item>
+        <item></item>
+        <item>Bent Over Lateral Raises</item>
+        <item></item>
+        <item>Close Grip Bench Press</item>
+        <item></item>
+        <item>Tricep Dips</item>
+        <item></item>
+        <item>Dumbbell Tricep Kickback</item>
+        <item></item>
+    </string-array>
+      <string-array name="adv1_cardio_abs">
+        <item>Cardio 45 minutes. You can choose from one of the following or do all 3. (15 mins each)</item>
+        <item>Stationary Bike</item>
+        <item></item>
+        <item>Walking Workout</item>
+        <item></item>
+        <item>Elliptical Workout</item>
+        <item></item>
+        <item>Incline Bench Leg Raises</item>
+        <item></item>
+        <item>Hanging Oblique Crunches</item>
+        <item></item>
+        <item>Plank</item>
+        <item></item>
+    </string-array>
+    <string-array name="adv1_abs">
+        <item></item>
+        <item>Incline Bench Leg Raises</item>
+        <item></item>
+        <item>Hanging Oblique Crunches</item>
+        <item></item>
+        <item>Plank</item>
+        <item></item>
+    </string-array>
+    
+        <string-array name="adv2_legs">
+        <item>8-12 repetitions. 2 to 5 sets. 2 min rest period between two sets. This being an athletic workout needs to be done with speed</item>
+        <item>Jump Squats</item>
+        <item></item>
+        <item>Dynamic Lunges</item>
+        <item></item>
+        <item>Leg Press</item>
+        <item></item>
+        <item>Leg Extension</item>
+        <item></item>
+        <item>Stiff Leg Dead Lift</item>
+        <item></item>
+        <item>Prone Leg Curl</item>
+        <item></item>
+        <item>Standing Calf Raises</item>
+        <item></item>
+        <item>Seated Calf Raises</item>
+        <item></item>
+    </string-array>
+    <string-array name="adv2_back">
+        <item>8-12 repetitions. 2 to 5 sets. 2 min rest period between two sets. This being an athletic workout needs to be done with speed</item>
+        <item>Bent Over Barbell Row</item>
+        <item></item>
+        <item>Pull Ups-Chin Ups</item>
+        <item></item>
+        <item>Cable Seated Row</item>
+        <item></item>
+        <item>Conventional Dead Lift</item>
+        <item></item>
+        <item>Bent Over Barbell Row</item>
+        <item></item>
+        <item>Dumbbell Shrugs</item>
+        <item></item>
+        <item>Rear Delt Fly</item>
+        <item></item>
+        <item>Clean And Press</item>
+        <item></item>
+    </string-array>
+      <string-array name="adv2_chest_b">
+        <item>8-12 repetitions. 2 to 5 sets. 2 min rest period between two sets. This being an athletic workout needs to be done with speed</item>
+        <item>Push Ups</item>
+        <item></item>
+        <item>Decline Bench Press</item>
+        <item></item>
+        <item>Flat Bench Chest Press</item>
+        <item></item>
+        <item>Incline Bench Press</item>
+        <item></item>
+        <item>Cable Cross Over</item>
+        <item></item>
+        <item>Supination Curl</item>
+        <item></item>
+        <item>Preacher Curls</item>
+        <item></item>
+        <item>Dumbbell Hammer Curls</item>
+        <item></item>
+        <item>Reverse Cable Curls</item>
+        <item></item>
+    </string-array>
+     <string-array name="adv2_shoulder_t">
+        <item>8-12 repetitions. 2 to 5 sets. 2 min rest period between two sets. This being an athletic workout needs to be done with speed</item>
+        <item>Overhead Press</item>
+        <item></item>
+        <item>Front Raises</item>
+        <item></item>
+        <item>Lateral Raises</item>
+        <item></item>
+        <item>Bent Over Lateral Raises</item>
+        <item></item>
+        <item>Close Grip Bench Press</item>
+        <item></item>
+        <item>Tricep Dips</item>
+        <item></item>
+        <item>Dumbbell Tricep Kickback</item>
+        <item></item>
+    </string-array>
+      <string-array name="adv2_cardio_abs">
+        <item>Cardio 45 minutes. You can choose from one of the following or do all 3. (15 mins each). This being an athletic workout needs to be done with speed</item>
+        <item>Stationary Bike</item>
+        <item></item>
+        <item>Walking Workout</item>
+        <item></item>
+        <item>Elliptical Workout</item>
+        <item></item>
+        <item>Incline Bench Leg Raises</item>
+        <item></item>
+        <item>Hanging Oblique Crunches</item>
+        <item></item>
+        <item>Plank</item>
+        <item></item>
+    </string-array>
+      <string-array name="functional1_workout">
+        <item>15-30 repetitions. 2 sets or upto failure. 1-2 min rest between two sets</item>
+        <item>Burpees</item>
+        <item></item>
+        <item>Clap Pushups</item>
+        <item></item>
+        <item>Step Up And Squat</item>
+        <item></item>
+        <item>Mountain Climber</item>
+        <item></item>
+        <item>Duck Walk</item>
+        <item></item>
+        <item>Inchworm Walk</item>
+        <item></item>
+        <item>Frog Jumps</item>
+        <item></item>
+        <item>Farmers Walk</item>
+        <item></item>
+        <item>Spider Man Walk</item>
+        <item></item>
+        <item>Pull Ups With Speed</item>
+        <item></item>
+        <item>Skipping With Speed</item>
+        <item></item>
+    </string-array>
+    <string-array name="functional2_workout">
+        <item>10-12 repetitions. 3 sets. 1-2 min rest period between two sets</item>
+        <item>Squats With Figure Of 8</item>
+        <item></item>
+        <item>Step Ups With Lateral Press</item>
+        <item></item>
+        <item>Dead Lift With Shrugs</item>
+        <item></item>
+        <item>Squats With Overhead Press</item>
+        <item></item>
+        <item>Lunges With Bicep Curl</item>
+        <item></item>
+        <item>Standing Calf Raises With Reverse Curls</item>
+        <item></item>
+        <item>Bent Over Barbell Rowing With Dumbbell Kick Backs</item>
+        <item></item>
+        <item>Decline Bench Press With Crunches</item>
+        <item></item>
+        <item>Incline Bench Press With Leg Raises</item>
+        <item></item>
+    </string-array>
+    <string-array name="functional_cardio">
+        <item></item>
+        <item>Walk / Jog</item>
+        <item></item>
+    </string-array>
+
+</resources>    

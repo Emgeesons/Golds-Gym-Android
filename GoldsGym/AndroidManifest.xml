@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Author: Emgeesons -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.emgeesons.goldsgym"
+    android:versionCode="3"
+    android:versionName="1.0.2" >
+
+    <uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="17" />
+    
+    <uses-feature android:name="android.hardware.camera" />
+	<uses-feature android:name="android.hardware.camera.autofocus" android:required="false"  />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"  />
+    
+    <supports-screens android:resizeable="true"
+              android:smallScreens="true"
+              android:normalScreens="true"
+              android:largeScreens="true"
+              android:xlargeScreens="true" />
+    
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:name=".GoldGymApplication"
+         >
+        
+        <activity
+            android:name="com.emgeesons.goldsgym.LaunchAppActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:noHistory="true"
+            android:theme="@style/AppTheme"  >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.emgeesons.goldsgym.DisclaimerActivity"
+            android:label=""
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:noHistory="true" > 
+		</activity>   
+		
+        <activity
+            android:name="com.emgeesons.goldsgym.AboutUserActivity"
+            android:label=""
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:noHistory="true" > 
+		</activity>         
+		   
+        <activity
+            android:name="com.emgeesons.goldsgym.HomeScreenActivity"
+            android:label=" Howdy"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize" >            
+        </activity>   
+        
+        <activity
+            android:name="com.emgeesons.goldsgym.BodyStatsActivity"
+            android:label=" Body Stats"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>   
+        <activity
+            android:name="com.emgeesons.goldsgym.MedicalConditionActivity"
+            android:label=" Medical Condition"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>      
+        <activity
+            android:name="com.emgeesons.goldsgym.DietaryRecallActivity"
+            android:label=" Dietary Recall"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity> 
+        
+        <activity
+            android:name="com.emgeesons.goldsgym.ExerciseActivity"
+            android:label=" Exercise"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>  
+        
+         
+        <activity
+            android:name="com.emgeesons.goldsgym.TermsActivity"
+            android:label=""
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>
+        <activity
+            android:name="com.emgeesons.goldsgym.VipPassActivity"
+            android:label=" VIP Pass"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>
+        <activity
+            android:name="com.emgeesons.goldsgym.GymCitiesActivity"
+            android:label=" Gym Locator"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>
+        <activity
+            android:name="com.emgeesons.goldsgym.GymsLocationActivity"
+            android:label=" Gym Locator"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>
+        <activity
+            android:name="com.emgeesons.goldsgym.OffersActivity"
+            android:label=" Offers / Events"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>
+        
+        
+         <activity
+            android:name="com.emgeesons.goldsgym.DailyActivity"
+            android:label=" Workout"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>
+        
+        <activity
+            android:name="com.emgeesons.goldsgym.AdvancedProfileActivity"
+            android:label=" Advanced Profile"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>
+        
+        <activity
+            android:name="com.emgeesons.goldsgym.GuidelinesActivity"
+            android:label=" Guidelines"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>
+        <activity
+            android:name="com.emgeesons.goldsgym.BodyPicsActivity"
+            android:label=" Gallery"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>
+        <activity
+            android:name="com.emgeesons.goldsgym.FullImageActivity"
+            android:label=""
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>
+         <activity
+            android:name="com.emgeesons.goldsgym.DadActivity"
+            android:label=" Do's And Don'ts"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|orientation|screenSize">        
+        </activity>
+         
+      <!--   <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/app_id"/> -->
+       
+        <activity
+            android:name="com.facebook.LoginActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        
+         <receiver android:name="com.emgeesons.goldsgym.ReminderReceiver">
+	       	<intent-filter>  
+	      		  <action android:name="android.intent.action.BOOT_COMPLETED" />  
+	    	</intent-filter>  
+    	</receiver>
+         <service android:name=".ReminderService"
+                 android:enabled="true"
+          />
+        
+    </application>
+
+</manifest>

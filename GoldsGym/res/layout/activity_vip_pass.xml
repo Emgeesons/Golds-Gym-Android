@@ -1,0 +1,24 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LaunchAppActivity"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:paddingTop="30dp"
+	        android:paddingLeft="@dimen/mini_padding"
+	        android:paddingRight="@dimen/mini_padding" 
+ >
+        
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="@dimen/small_padding"
+            android:paddingBottom="@dimen/small_padding"
+	        	android:paddingLeft="@dimen/mini_padding"
+	        	android:paddingRight="@dimen/mini_padding"  
+            android:background="@color/light_gray"
+     >
+
+
+     </LinearLayout>
+</ScrollView>
